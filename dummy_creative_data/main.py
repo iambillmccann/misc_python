@@ -3,10 +3,11 @@ import json
 import sys
 from datetime import datetime
 
-# Lists of common first names, last names, and style names
+# Lists of common first names, last names, style names, and roles
 first_names = ["John", "Jane", "Michael", "Mary", "James", "Patricia", "Robert", "Jennifer", "William", "Linda"]
 last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez"]
 style_names = ["adventurer", "avataaars", "big-ears", "big-smile", "bottts", "croodles", "lorelei", "micah", "notionists", "open-peeps", "personas", "thumbs"]
+roles_list = ["Songwriter", "Producer", "Musician", "Background Vocalist", "Mixing Engineer"]
 
 def generate_user():
     first_name = random.choice(first_names)
@@ -35,9 +36,33 @@ def generate_creative(first_name, last_name):
     creative_name = f"{last_name}, {first_name}"
     style_name = random.choice(style_names)
     image_url = f"https://api.dicebear.com/7.x/{style_name}/svg"
-    creative_data = json.dumps({"type": "Art", "description": "Sample creative data"}) if random.choice([True, False]) else "NULL"
+    roles = random.sample(roles_list, random.randint(0, 5))
+    roles_data = [{"role": role, "active": True} for role in roles]
+    creative_data = {
+        "bio": "",
+        "email": None,
+        "roles": roles_data,
+        "genres": [],
+        "social": [
+            {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "instagram"},
+            {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "youtube"},
+            {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "tiktok"},
+            {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "twitter"}
+        ],
+        "toRate": None,
+        "allowSms": False,
+        "currency": None,
+        "fromRate": None,
+        "legalName": None,
+        "stageName": None,
+        "instruments": [],
+        "phoneNumber": "+1909170991",
+        "isIDVerified": None,
+        "isNegotiable": None,
+        "isSocialVerified": None
+    }
 
-    return f"('{creative_name}', '{image_url}', {creative_data}, NULL)"
+    return f"('{creative_name}', '{image_url}', '{json.dumps(creative_data)}', NULL)"
 
 def main():
     num_records = int(sys.argv[1]) if len(sys.argv) > 1 else 10
