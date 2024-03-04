@@ -3,11 +3,13 @@ import json
 import sys
 from datetime import datetime
 
-# Lists of common first names, last names, style names, and roles
+# Lists of common first names, last names, style names, roles, instruments, and genres
 first_names = ["John", "Jane", "Michael", "Mary", "James", "Patricia", "Robert", "Jennifer", "William", "Linda"]
 last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez"]
 style_names = ["adventurer", "avataaars", "big-ears", "big-smile", "bottts", "croodles", "lorelei", "micah", "notionists", "open-peeps", "personas", "thumbs"]
 roles_list = ["Songwriter", "Producer", "Musician", "Background Vocalist", "Mixing Engineer"]
+instruments_list = ["Accordion", "Bagpipe", "Banjo", "Bongo drum", "Bugle", "Castanets", "Glockenspiel", "Guitar", "Harp", "Saxophone", "Triangle", "Zither"]
+genres_list = ["Alternative", "Ambient", "Blues", "Country", "Folk", "Heavy Metal", "Hip Hop/Rap", "K Pop", "Pop", "Rock"]
 
 def generate_user():
     first_name = random.choice(first_names)
@@ -38,11 +40,13 @@ def generate_creative(first_name, last_name):
     image_url = f"https://api.dicebear.com/7.x/{style_name}/svg"
     roles = random.sample(roles_list, random.randint(0, 5))
     roles_data = [{"role": role, "active": True} for role in roles]
+    instruments = random.sample(instruments_list, random.randint(0, 6))
+    genres = random.sample(genres_list, random.randint(0, 3))
     creative_data = {
         "bio": "",
         "email": None,
         "roles": roles_data,
-        "genres": [],
+        "genres": genres,
         "social": [
             {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "instagram"},
             {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "youtube"},
@@ -55,7 +59,7 @@ def generate_creative(first_name, last_name):
         "fromRate": None,
         "legalName": None,
         "stageName": None,
-        "instruments": [],
+        "instruments": instruments,
         "phoneNumber": "+1909170991",
         "isIDVerified": None,
         "isNegotiable": None,
