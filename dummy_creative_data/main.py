@@ -28,25 +28,25 @@ def generate_user():
     recommendations = json.dumps({"rec1": "Good", "rec2": "Excellent"}) if random.choice([True, False]) else "NULL"
     created_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    return f"('{legal_name}', '{email}', '{phone_number}', '{first_name}', '{last_name}', '{stage_name}', {biography}, {banking_data}, {primary_profile_id}, NULL, '{currency}', {current_balance}, {from_rate}, {to_rate}, false, true, {is_negotiable}, {is_id_verified}, {is_social_verified}, true, false, true, true, {id_vid}, NULL, {recommendations}, '{created_date}')"
+    return (first_name, last_name, f"('{legal_name}', '{email}', '{phone_number}', '{first_name}', '{last_name}', '{stage_name}', {biography}, {banking_data}, {primary_profile_id}, NULL, '{currency}', {current_balance}, {from_rate}, {to_rate}, false, true, {is_negotiable}, {is_id_verified}, {is_social_verified}, true, false, true, true, {id_vid}, NULL, {recommendations}, '{created_date}')")
 
-def generate_creative():
-    name = f"Creative_{random.randint(100000, 999999)}"
+def generate_creative(first_name, last_name):
+    creative_name = f"{last_name}, {first_name}"
     image_url = f"http://example.com/image_{random.randint(100000, 999999)}.jpg" if random.choice([True, False]) else "NULL"
     creative_data = json.dumps({"type": "Art", "description": "Sample creative data"}) if random.choice([True, False]) else "NULL"
 
-    return f"('{name}', {image_url}, {creative_data}, NULL)"
+    return f"('{creative_name}', {image_url}, {creative_data}, NULL)"
 
 def main():
     num_records = int(sys.argv[1]) if len(sys.argv) > 1 else 10
 
     with open("insert_data.sql", "w") as file:
         for _ in range(num_records):
-            user_insert = generate_user()
+            first_name, last_name, user_insert = generate_user()
             file.write(f"INSERT INTO user (legalName, email, phoneNumber, firstName, lastName, stageName, biography, bankingData, primaryProfileId, primaryCreativeId, currency, currentBalance, fromRate, toRate, isArtist, isCreative, isNegotiable, isIDVerified, isSocialVerified, isActive, isDeactivated, allowSms, termsApproved, IDVid, careerMode, recommendations, createdDate) VALUES {user_insert};\n")
             file.write("SET @last_user_id = LAST_INSERT_ID();\n")
 
-            creative_insert = generate_creative()
+            creative_insert = generate_creative(first_name, last_name)
             file.write(f"INSERT INTO creative (name, imageURL, creativeData, userId) VALUES {creative_insert};\n")
             file.write("SET @last_creative_id = LAST_INSERT_ID();\n")
 
