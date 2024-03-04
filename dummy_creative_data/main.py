@@ -14,12 +14,11 @@ genres_list = ["Alternative", "Ambient", "Blues", "Country", "Folk", "Heavy Meta
 def generate_user():
     first_name = random.choice(first_names)
     last_name = random.choice(last_names)
+    user_id = f"user_{random.randint(10000, 99999)}"
     legal_name = f"{first_name} {last_name}"
     stage_name = "Ima Dummy"
     phone_number = f"+1-{random.randint(100, 999)}-{random.randint(100, 999)}-{random.randint(1000, 9999)}"
-    banking_data = json.dumps({"bank": "Bank Name", "account": str(random.randint(100000, 999999))}) if random.choice([True, False]) else "NULL"
-    email = f"user_{random.randint(10000, 99999)}@example.com"
-    biography = "This is a sample biography." if random.choice([True, False]) else "NULL"
+    email = f"{user_id}@example.com"
     primary_profile_id = "NULL"
     currency = "USD"
     current_balance = round(random.uniform(0, 10000), 4)
@@ -28,11 +27,9 @@ def generate_user():
     is_negotiable = random.choice([True, False])
     is_id_verified = random.choice([True, False])
     is_social_verified = random.choice([True, False])
-    id_vid = f"VID_{random.randint(10000, 99999)}" if random.choice([True, False]) else "NULL"
-    recommendations = json.dumps({"rec1": "Good", "rec2": "Excellent"}) if random.choice([True, False]) else "NULL"
     created_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    return (first_name, last_name, f"('{legal_name}', '{email}', '{phone_number}', '{first_name}', '{last_name}', '{stage_name}', {biography}, {banking_data}, {primary_profile_id}, NULL, '{currency}', {current_balance}, {from_rate}, {to_rate}, false, true, {is_negotiable}, {is_id_verified}, {is_social_verified}, true, false, true, true, {id_vid}, NULL, {recommendations}, '{created_date}')")
+    return (first_name, last_name, f"('{user_id}', '{legal_name}', '{email}', '{phone_number}', '{first_name}', '{last_name}', '{stage_name}', NULL, NULL, {primary_profile_id}, NULL, '{currency}', {current_balance}, {from_rate}, {to_rate}, false, true, {is_negotiable}, {is_id_verified}, {is_social_verified}, true, false, true, true, NULL, NULL, NULL, '{created_date}')")
 
 def generate_creative(first_name, last_name):
     creative_name = f"{last_name}, {first_name}"
@@ -74,7 +71,7 @@ def main():
     with open("insert_data.sql", "w") as file:
         for _ in range(num_records):
             first_name, last_name, user_insert = generate_user()
-            file.write(f"INSERT INTO user (legalName, email, phoneNumber, firstName, lastName, stageName, biography, bankingData, primaryProfileId, primaryCreativeId, currency, currentBalance, fromRate, toRate, isArtist, isCreative, isNegotiable, isIDVerified, isSocialVerified, isActive, isDeactivated, allowSms, termsApproved, IDVid, careerMode, recommendations, createdDate) VALUES {user_insert};\n")
+            file.write(f"INSERT INTO user (userId, legalName, email, phoneNumber, firstName, lastName, stageName, biography, bankingData, primaryProfileId, primaryCreativeId, currency, currentBalance, fromRate, toRate, isArtist, isCreative, isNegotiable, isIDVerified, isSocialVerified, isActive, isDeactivated, allowSms, termsApproved, IDVid, careerMode, recommendations, createdDate) VALUES {user_insert};\n")
             file.write("SET @last_user_id = LAST_INSERT_ID();\n")
 
             creative_insert = generate_creative(first_name, last_name)
