@@ -1,0 +1,121 @@
+{
+    "tableName": "genres",
+    "tableContent": [
+        {
+            "code": "african",
+            "label": "African"
+        },
+        {
+            "code": "alternative",
+            "label": "Alternative"
+        },
+        {
+            "code": "american",
+            "label": "American"
+        },
+        {
+            "code": "asian",
+            "label": "Asian"
+        },
+        {
+            "code": "australian",
+            "label": "Australian"
+        },
+        {
+            "code": "blues",
+            "label": "Blues"
+        },
+        {
+            "code": "children's music",
+            "label": "Children's Music"
+        },
+        {
+            "code": "classical, ensemble & opera",
+            "label": "Classical, Ensemble & Opera"
+        },
+        {
+            "code": "comedy & spoken word",
+            "label": "Comedy & Spoken Word"
+        },
+        {
+            "code": "country",
+            "label": "Country"
+        },
+        {
+            "code": "electronic",
+            "label": "Electronic"
+        },
+        {
+            "code": "european",
+            "label": "European"
+        },
+        {
+            "code": "folk & traditional",
+            "label": "Folk & Traditional"
+        },
+        {
+            "code": "hip-hop & rap",
+            "label": "Hip-hop & Rap"
+        },
+        {
+            "code": "holiday",
+            "label": "Holiday"
+        },
+        {
+            "code": "instrumental",
+            "label": "Instrumental"
+        },
+        {
+            "code": "jazz & standards",
+            "label": "Jazz & Standards"
+        },
+        {
+            "code": "latin",
+            "label": "Latin"
+        },
+        {
+            "code": "metal",
+            "label": "Metal"
+        },
+        {
+            "code": "middle eastern",
+            "label": "Middle Eastern"
+        },
+        {
+            "code": "others",
+            "label": "Others"
+        },
+        {
+            "code": "pop",
+            "label": "Pop"
+        },
+        {
+            "code": "punk",
+            "label": "Punk"
+        },
+        {
+            "code": "r&b, funk & soul",
+            "label": "R&b, Funk & Soul"
+        },
+        {
+            "code": "reggae",
+            "label": "Reggae"
+        },
+        {
+            "code": "rock",
+            "label": "Rock"
+        },
+        {
+            "code": "soundtrack, stage & screen",
+            "label": "Soundtrack, Stage & Screen"
+        },
+        {
+            "code": "spirituals",
+            "label": "Spirituals"
+        },
+        {
+            "code": "sports",
+            "label": "Sports"
+        }
+    ]
+}

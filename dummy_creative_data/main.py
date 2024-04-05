@@ -34,7 +34,7 @@ def generate_user():
 def generate_creative(first_name, last_name):
     creative_name = f"{last_name}, {first_name}"
     style_name = random.choice(style_names)
-    image_url = f"https://api.dicebear.com/7.x/{style_name}/svg"
+    image_url = f"https://api.dicebear.com/7.x/{style_name}/png"
     roles = random.sample(roles_list, random.randint(0, 5))
     roles_data = [{"role": role, "active": True} for role in roles]
     instruments = random.sample(instruments_list, random.randint(0, 6))
@@ -66,7 +66,7 @@ def generate_creative(first_name, last_name):
     return f"('{creative_name}', '{image_url}', '{json.dumps(creative_data)}', NULL)"
 
 def main():
-    num_records = int(sys.argv[1]) if len(sys.argv) > 1 else 10
+    num_records = int(sys.argv[1]) if len(sys.argv) > 1 else 50
 
     with open("insert_data.sql", "w") as file:
         for _ in range(num_records):
