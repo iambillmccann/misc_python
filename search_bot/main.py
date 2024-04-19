@@ -42,14 +42,14 @@ def main():
     ]
 
     # Randomly select five search terms from the list
-    selected_terms = random.sample(search_terms, 3)
+    selected_terms = random.sample(search_terms, 10)
 
     # Search each selected term on Bing
     for term in selected_terms:
         query_encoded = urllib.parse.quote_plus(term)
         url = f"https://www.bing.com/search?q={query_encoded}"
         webbrowser.open(url)
-        time.sleep(30)  # Wait for 15 seconds
+        time.sleep(15)  # Wait for 15 seconds
 
 if __name__ == "__main__":
     main()
