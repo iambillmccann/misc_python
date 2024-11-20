@@ -5,13 +5,11 @@ import utilities
 PAYPAL_API_BASE = "https://api-m.sandbox.paypal.com"
 
 
-def create_paypal_account_referral(email, return_url, cancel_url):
+def create_paypal_account_referral(email):
     """
-    Create a PayPal account referral link for a user.
+    Create a PayPal account referral for a user.
     Args:
         email (str): The user's email address.
-        return_url (str): URL to redirect to after successful onboarding.
-        cancel_url (str): URL to redirect to if the user cancels onboarding.
     Returns:
         dict: The referral link and metadata.
     """
@@ -21,7 +19,6 @@ def create_paypal_account_referral(email, return_url, cancel_url):
     # Referral request payload
     referral_payload = {
         "tracking_id": f"user-{email}",  # Track the user in your system
-        "partner_config_override": {"return_url": return_url, "cancel_url": cancel_url},
         "operations": [
             {
                 "operation": "API_INTEGRATION",
@@ -63,15 +60,11 @@ def create_paypal_account_referral(email, return_url, cancel_url):
 # Example Usage
 if __name__ == "__main__":
     try:
-        # Set user details and URLs
+        # Set user details
         user_email = "testuser@example.com"
-        return_url = "https://yourapp.com/onboarding-success"
-        cancel_url = "https://yourapp.com/onboarding-cancel"
 
         # Generate a referral link
-        referral_info = create_paypal_account_referral(
-            user_email, return_url, cancel_url
-        )
+        referral_info = create_paypal_account_referral(user_email)
         print(f"Referral Link: {referral_info['referral_link']}")
         print(f"Tracking ID: {referral_info['tracking_id']}")
         print(f"User Email: {referral_info['email']}")
