@@ -91,7 +91,7 @@ def vault_bank_account(account_details):
     return response.json()
 
 
-# Example Usage
+# Main program logic
 if __name__ == "__main__":
     try:
         # Simulated user bank account details
