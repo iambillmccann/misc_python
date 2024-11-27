@@ -1,15 +1,84 @@
+#
+# Randomly generates dummy data for the user and creative tables in the database.
+#
 import random
 import json
 import sys
 from datetime import datetime
 
 # Lists of common first names, last names, style names, roles, instruments, and genres
-first_names = ["John", "Jane", "Michael", "Mary", "James", "Patricia", "Robert", "Jennifer", "William", "Linda"]
-last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Rodriguez", "Martinez"]
-style_names = ["adventurer", "avataaars", "big-ears", "big-smile", "bottts", "croodles", "lorelei", "micah", "notionists", "open-peeps", "personas", "thumbs"]
-roles_list = ["Songwriter", "Producer", "Musician", "Background Vocalist", "Mixing Engineer"]
-instruments_list = ["Accordion", "Bagpipe", "Banjo", "Bongo drum", "Bugle", "Castanets", "Glockenspiel", "Guitar", "Harp", "Saxophone", "Triangle", "Zither"]
-genres_list = ["Alternative", "Ambient", "Blues", "Country", "Folk", "Heavy Metal", "Hip Hop/Rap", "K Pop", "Pop", "Rock"]
+first_names = [
+    "John",
+    "Jane",
+    "Michael",
+    "Mary",
+    "James",
+    "Patricia",
+    "Robert",
+    "Jennifer",
+    "William",
+    "Linda",
+]
+last_names = [
+    "Smith",
+    "Johnson",
+    "Williams",
+    "Brown",
+    "Jones",
+    "Garcia",
+    "Miller",
+    "Davis",
+    "Rodriguez",
+    "Martinez",
+]
+style_names = [
+    "adventurer",
+    "avataaars",
+    "big-ears",
+    "big-smile",
+    "bottts",
+    "croodles",
+    "lorelei",
+    "micah",
+    "notionists",
+    "open-peeps",
+    "personas",
+    "thumbs",
+]
+roles_list = [
+    "Songwriter",
+    "Producer",
+    "Musician",
+    "Background Vocalist",
+    "Mixing Engineer",
+]
+instruments_list = [
+    "Accordion",
+    "Bagpipe",
+    "Banjo",
+    "Bongo drum",
+    "Bugle",
+    "Castanets",
+    "Glockenspiel",
+    "Guitar",
+    "Harp",
+    "Saxophone",
+    "Triangle",
+    "Zither",
+]
+genres_list = [
+    "Alternative",
+    "Ambient",
+    "Blues",
+    "Country",
+    "Folk",
+    "Heavy Metal",
+    "Hip Hop/Rap",
+    "K Pop",
+    "Pop",
+    "Rock",
+]
+
 
 def generate_user():
     first_name = random.choice(first_names)
@@ -29,7 +98,12 @@ def generate_user():
     is_social_verified = random.choice([True, False])
     created_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    return (first_name, last_name, f"('{user_id}', '{legal_name}', '{email}', '{phone_number}', '{first_name}', '{last_name}', '{stage_name}', NULL, NULL, {primary_profile_id}, NULL, '{currency}', {current_balance}, {from_rate}, {to_rate}, false, true, {is_negotiable}, {is_id_verified}, {is_social_verified}, true, false, true, true, NULL, NULL, NULL, '{created_date}')")
+    return (
+        first_name,
+        last_name,
+        f"('{user_id}', '{legal_name}', '{email}', '{phone_number}', '{first_name}', '{last_name}', '{stage_name}', NULL, NULL, {primary_profile_id}, NULL, '{currency}', {current_balance}, {from_rate}, {to_rate}, false, true, {is_negotiable}, {is_id_verified}, {is_social_verified}, true, false, true, true, NULL, NULL, NULL, '{created_date}')",
+    )
+
 
 def generate_creative(first_name, last_name):
     creative_name = f"{last_name}, {first_name}"
@@ -45,10 +119,22 @@ def generate_creative(first_name, last_name):
         "roles": roles_data,
         "genres": genres,
         "social": [
-            {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "instagram"},
-            {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "youtube"},
-            {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "tiktok"},
-            {"data": {"url": "", "identifier": "", "isPlatformVerified": False}, "platform": "twitter"}
+            {
+                "data": {"url": "", "identifier": "", "isPlatformVerified": False},
+                "platform": "instagram",
+            },
+            {
+                "data": {"url": "", "identifier": "", "isPlatformVerified": False},
+                "platform": "youtube",
+            },
+            {
+                "data": {"url": "", "identifier": "", "isPlatformVerified": False},
+                "platform": "tiktok",
+            },
+            {
+                "data": {"url": "", "identifier": "", "isPlatformVerified": False},
+                "platform": "twitter",
+            },
         ],
         "toRate": None,
         "allowSms": False,
@@ -60,10 +146,11 @@ def generate_creative(first_name, last_name):
         "phoneNumber": "+1909170991",
         "isIDVerified": None,
         "isNegotiable": None,
-        "isSocialVerified": None
+        "isSocialVerified": None,
     }
 
     return f"('{creative_name}', '{image_url}', '{json.dumps(creative_data)}', NULL)"
+
 
 def main():
     num_records = int(sys.argv[1]) if len(sys.argv) > 1 else 50
@@ -71,18 +158,27 @@ def main():
     with open("insert_data.sql", "w") as file:
         for _ in range(num_records):
             first_name, last_name, user_insert = generate_user()
-            file.write(f"INSERT INTO user (userId, legalName, email, phoneNumber, firstName, lastName, stageName, biography, bankingData, primaryProfileId, primaryCreativeId, currency, currentBalance, fromRate, toRate, isArtist, isCreative, isNegotiable, isIDVerified, isSocialVerified, isActive, isDeactivated, allowSms, termsApproved, IDVid, careerMode, recommendations, createdDate) VALUES {user_insert};\n")
+            file.write(
+                f"INSERT INTO user (userId, legalName, email, phoneNumber, firstName, lastName, stageName, biography, bankingData, primaryProfileId, primaryCreativeId, currency, currentBalance, fromRate, toRate, isArtist, isCreative, isNegotiable, isIDVerified, isSocialVerified, isActive, isDeactivated, allowSms, termsApproved, IDVid, careerMode, recommendations, createdDate) VALUES {user_insert};\n"
+            )
             file.write("SET @last_user_id = LAST_INSERT_ID();\n")
 
             creative_insert = generate_creative(first_name, last_name)
-            file.write(f"INSERT INTO creative (name, imageURL, creativeData, userId) VALUES {creative_insert};\n")
+            file.write(
+                f"INSERT INTO creative (name, imageURL, creativeData, userId) VALUES {creative_insert};\n"
+            )
             file.write("SET @last_creative_id = LAST_INSERT_ID();\n")
 
             # Update the primaryCreativeId in the user table
-            file.write("UPDATE user SET primaryCreativeId = @last_creative_id WHERE id = @last_user_id;\n")
+            file.write(
+                "UPDATE user SET primaryCreativeId = @last_creative_id WHERE id = @last_user_id;\n"
+            )
 
             # Update the userId in the creative table
-            file.write("UPDATE creative SET userId = @last_user_id WHERE id = @last_creative_id;\n")
+            file.write(
+                "UPDATE creative SET userId = @last_user_id WHERE id = @last_creative_id;\n"
+            )
+
 
 if __name__ == "__main__":
     main()
