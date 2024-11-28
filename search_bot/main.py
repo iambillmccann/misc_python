@@ -1,7 +1,11 @@
+#
+# Simple script to search for random terms on Bing
+#
 import webbrowser
 import time
 import urllib.parse
 import random
+
 
 def main():
     # Define a list of ten search terms
@@ -38,7 +42,7 @@ def main():
         "Okemo ski conditions",
         "Hunter ski conditions",
         "Big Boulder ski conditions",
-        "Jack Frost ski conditions"
+        "Jack Frost ski conditions",
     ]
 
     # Randomly select five search terms from the list
@@ -50,6 +54,7 @@ def main():
         url = f"https://www.bing.com/search?q={query_encoded}"
         webbrowser.open(url)
         time.sleep(15)  # Wait for 15 seconds
+
 
 if __name__ == "__main__":
     main()
