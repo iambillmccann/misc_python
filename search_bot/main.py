@@ -43,7 +43,7 @@ def main():
         "Hunter ski conditions",
         "Big Boulder ski conditions",
         "Jack Frost ski conditions",
-        "futanari images",
+        "Epic Pass 2024",
     ]
 
     # Randomly select five search terms from the list
