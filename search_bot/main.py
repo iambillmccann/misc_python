@@ -44,6 +44,7 @@ def main():
         "Big Boulder ski conditions",
         "Jack Frost ski conditions",
         "Epic Pass 2024",
+        "Heavenly Valley ski conditions",
     ]
 
     # Randomly select five search terms from the list
