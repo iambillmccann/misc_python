@@ -55,7 +55,7 @@ def main():
         query_encoded = urllib.parse.quote_plus(term)
         url = f"https://www.bing.com/search?q={query_encoded}"
         webbrowser.open(url)
-        time.sleep(15)  # Wait for 15 seconds
+        time.sleep(5)  # Wait for 5 seconds
 
 
 if __name__ == "__main__":
