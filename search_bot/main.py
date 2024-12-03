@@ -12,7 +12,7 @@ def main():
     search_terms = [
         "New York weather",
         "Kyle McCann stats",
-        "Krystal Boyd images",
+        "Wendy's near me",
         "Top Python libraries",
         "New York Jets quarterback news",
         "How to start a garden",
@@ -45,6 +45,7 @@ def main():
         "Jack Frost ski conditions",
         "Epic Pass 2024",
         "Heavenly Valley ski conditions",
+        "weather in tashkent",
     ]
 
     # Randomly select five search terms from the list
