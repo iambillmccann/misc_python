@@ -46,6 +46,7 @@ def main():
         "Epic Pass 2024",
         "Heavenly Valley ski conditions",
         "weather in tashkent",
+        "weather forecase",
     ]
 
     # Randomly select five search terms from the list
