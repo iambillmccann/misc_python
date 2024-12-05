@@ -47,6 +47,7 @@ def main():
         "Heavenly Valley ski conditions",
         "weather in tashkent",
         "weather forecase",
+        "stalker 2 tips and tricks",
     ]
 
     # Randomly select five search terms from the list
