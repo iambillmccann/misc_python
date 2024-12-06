@@ -46,18 +46,22 @@ def main():
         "Epic Pass 2024",
         "Heavenly Valley ski conditions",
         "weather in tashkent",
-        "weather forecase",
+        "weather forecast",
         "stalker 2 tips and tricks",
     ]
 
-    # Randomly select five search terms from the list
-    selected_terms = random.sample(search_terms, 10)
+    # Randomly selec search terms from the list
+    selected_terms = random.sample(search_terms, 30)
 
     # Search each selected term on Bing
     for term in selected_terms:
-        query_encoded = urllib.parse.quote_plus(term)
-        url = f"https://www.bing.com/search?q={query_encoded}"
-        webbrowser.open(url)
+        print(f"Searching for: {term}")
+        try:
+            query_encoded = urllib.parse.quote_plus(term)
+            url = f"https://www.bing.com/search?q={query_encoded}"
+            webbrowser.open(url)
+        except Exception as e:
+            print(f"Failed to open URL for term '{term}': {e}")
         time.sleep(5)  # Wait for 5 seconds
 
 
