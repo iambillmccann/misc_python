@@ -48,6 +48,7 @@ def main():
         "weather in tashkent",
         "weather forecast",
         "stalker 2 tips and tricks",
+        "Movies near me",
     ]
 
     # Randomly selec search terms from the list
