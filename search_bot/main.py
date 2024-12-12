@@ -49,6 +49,7 @@ def main():
         "weather forecast",
         "stalker 2 tips and tricks",
         "Movies near me",
+        "Shop for milk and eggs",
     ]
 
     # Randomly selec search terms from the list
