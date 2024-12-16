@@ -51,6 +51,7 @@ def main():
         "Movies near me",
         "Shop for milk and eggs",
         "rust dioxus tutorial",
+        "how do I boil an egg",
     ]
 
     # Randomly selec search terms from the list
