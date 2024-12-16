@@ -50,6 +50,7 @@ def main():
         "stalker 2 tips and tricks",
         "Movies near me",
         "Shop for milk and eggs",
+        "rust dioxus tutorial",
     ]
 
     # Randomly selec search terms from the list
