@@ -52,6 +52,7 @@ def main():
         "Shop for milk and eggs",
         "rust dioxus tutorial",
         "how do I boil an egg",
+        "healthy recipes",
     ]
 
     # Randomly selec search terms from the list
