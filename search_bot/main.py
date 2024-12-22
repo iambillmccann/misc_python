@@ -53,7 +53,8 @@ def main():
         "rust dioxus tutorial",
         "how do I boil an egg",
         "healthy recipes",
-        "what is futanari",
+        "how to make a pizza",
+        "how to make a cake",
     ]
 
     # Randomly selec search terms from the list
