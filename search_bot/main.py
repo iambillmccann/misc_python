@@ -55,6 +55,7 @@ def main():
         "healthy recipes",
         "how to make a pizza",
         "how to make a cake",
+        "Implement Stripe Payouts",
     ]
 
     # Randomly selec search terms from the list
