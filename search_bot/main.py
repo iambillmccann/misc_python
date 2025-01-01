@@ -58,6 +58,7 @@ def main():
         "Implement Stripe Payouts",
         "Stripe API documentation",
         "Stripe python SDK",
+        "Flights to DTW",
     ]
 
     # Randomly selec search terms from the list
