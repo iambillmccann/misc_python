@@ -8,7 +8,14 @@ load_dotenv()
 token = os.getenv("GITHUB_TOKEN")
 org = os.getenv("GITHUB_ORG")
 # List of repositories to keep
-repos_to_keep = ["repo1", "repo2", "repo3"]  # Replace with your actual repo names
+repos_to_keep = [
+    "crush-it-backup",
+    "js-samples",
+    "serverless_compute_platform",
+    "student-info-api",
+    "source-code-management-exercise",
+    "longest-substring-k-unique-template",
+]
 
 
 def get_all_repos(org, token):
