@@ -15,6 +15,15 @@ repos_to_keep = [
     "student-info-api",
     "source-code-management-exercise",
     "longest-substring-k-unique-template",
+    "microservice-api-js-template",
+    "osiris-core",
+    "osiris-infrastructure",
+    "osiris-function-library",
+    "osiris-index-ledger",
+    "osiris-admin-portal",
+    "osiris-code-generation",
+    "docker-introduction-assignment",
+    "resume_analyzer_documentation",
 ]
 
 
