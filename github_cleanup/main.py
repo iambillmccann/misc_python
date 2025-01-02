@@ -7,6 +7,8 @@ load_dotenv()
 
 token = os.getenv("GITHUB_TOKEN")
 org = os.getenv("GITHUB_ORG")
+# List of repositories to keep
+repos_to_keep = ["repo1", "repo2", "repo3"]  # Replace with your actual repo names
 
 
 def get_all_repos(org, token):
@@ -30,10 +32,24 @@ def get_all_repos(org, token):
     return repos
 
 
+def delete_repo(org, repo, token):
+    headers = {"Authorization": f"token {token}"}
+    response = requests.delete(
+        f"https://api.github.com/repos/{org}/{repo}", headers=headers
+    )
+    if response.status_code == 204:
+        print(f"Deleted {repo}")
+    else:
+        print(f"Failed to delete {repo}: {response.status_code}")
+
+
 def main():
     repos = get_all_repos(org, token)
     for repo in repos:
-        print(repo["name"])
+        if repo["name"] not in repos_to_keep:
+            delete_repo(org, repo["name"], token)
+        else:
+            print(f"Skipping {repo['name']}")
 
 
 if __name__ == "__main__":
