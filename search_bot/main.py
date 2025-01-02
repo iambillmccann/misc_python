@@ -59,6 +59,7 @@ def main():
         "Stripe API documentation",
         "Stripe python SDK",
         "Flights to DTW",
+        "Stalker 2 walkthrough",
     ]
 
     # Randomly selec search terms from the list
