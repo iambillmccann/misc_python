@@ -60,6 +60,7 @@ def main():
         "Stripe python SDK",
         "Flights to DTW",
         "Stalker 2 walkthrough",
+        "Things to do in Puerto Rico",
     ]
 
     # Randomly selec search terms from the list
