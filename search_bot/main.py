@@ -62,6 +62,7 @@ def main():
         "Stalker 2 walkthrough",
         "Things to do in Puerto Rico",
         "10 miles in km",
+        "Directions to Old San Juan",
     ]
 
     # Randomly selec search terms from the list
