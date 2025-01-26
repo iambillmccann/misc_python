@@ -63,6 +63,7 @@ def main():
         "Things to do in Puerto Rico",
         "10 miles in km",
         "Directions to Old San Juan",
+        "LaTex coding",
     ]
 
     # Randomly selec search terms from the list
