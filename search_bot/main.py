@@ -64,6 +64,7 @@ def main():
         "10 miles in km",
         "Directions to Old San Juan",
         "LaTex coding",
+        "GitHub command summary",
     ]
 
     # Randomly selec search terms from the list
