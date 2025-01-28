@@ -65,6 +65,7 @@ def main():
         "Directions to Old San Juan",
         "LaTex coding",
         "GitHub command summary",
+        "Lodging near Northstar ski resort",
     ]
 
     # Randomly selec search terms from the list
