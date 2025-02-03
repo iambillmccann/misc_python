@@ -63,6 +63,7 @@ def main():
         "GitHub command summary",
         "Lodging near Northstar ski resort",
         "Northstar ski conditions",
+        "Best movies of all time",
     ]
 
     # Randomly selec search terms from the list
