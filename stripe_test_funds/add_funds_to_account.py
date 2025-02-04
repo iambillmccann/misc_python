@@ -9,7 +9,8 @@ try:
     charge = stripe.Charge.create(
         amount=500000,  # amount in cents, e.g., $500.00
         currency="usd",
-        source="tok_visa",  # Use Stripe's test token
+        # source="tok_visa",  # Use Stripe's test token
+        source="4000000000000077",  # Test card that simulates immediate availability
         description="Test charge to add funds to company account",
     )
 except Exception as e:
