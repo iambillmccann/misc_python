@@ -5,24 +5,11 @@ import env
 stripe.api_key = env.STRIPE_SECRET_KEY
 
 try:
-    # Create a token using the test card number that deposits funds immediately.
-    _token_response = stripe.Token.create(
-        card={
-            "number": "4000000000000077",  # Test card for available balance
-            "exp_month": 12,
-            "exp_year": 2026,
-            "cvc": "123",
-        }
-    )
-
-    # print(f"Token created: {token_response.id}")
-
-    # Create a test charge to add funds to your account
     charge = stripe.Charge.create(
         amount=500000,  # amount in cents, e.g., $500.00
         currency="usd",
-        source="pm_card_visa",  # Use Stripe's test token
-        # source=token_response.id,  # Use the token ID from the previous step
+        payment_method="pm_card_visa",
+        payment_method_types=["card"],
         description="Test charge to add funds to company account",
     )
 except Exception as e:
