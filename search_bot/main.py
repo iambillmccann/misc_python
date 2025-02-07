@@ -65,6 +65,7 @@ def main():
         "Northstar ski conditions",
         "Best movies of all time",
         "Best books of all time",
+        "Ship Your Skis",
     ]
 
     # Randomly selec search terms from the list
