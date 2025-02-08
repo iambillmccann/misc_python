@@ -66,6 +66,7 @@ def main():
         "Best movies of all time",
         "Best books of all time",
         "Ship Your Skis",
+        "Distance from San Francisco to Tahoe",
     ]
 
     # Randomly selec search terms from the list
