@@ -7,7 +7,7 @@ import urllib.parse
 import random
 
 
-def main():
+def search_random():
     # Define a list of ten search terms
     search_terms = [
         "New York weather",
@@ -84,5 +84,20 @@ def main():
         time.sleep(5)  # Wait for 5 seconds
 
 
+def search_conversions(unit_from="miles", number_of=10):
+
+    for item in range(1, number_of):
+        search_string = "{item} {unit_from} to ".format(item=item, unit_from=unit_from)
+        try:
+            query_encoded = urllib.parse.quote_plus(search_string)
+            url = f"https://www.bing.com/search?q={query_encoded}"
+            webbrowser.open(url)
+        except Exception as e:
+            print(f"Failed to open URL for term '{search_string}': {e}")
+        time.sleep(5)  # Wait for 5 seconds
+
+
 if __name__ == "__main__":
-    main()
+
+    # search_random()
+    search_conversions()
