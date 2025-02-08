@@ -86,7 +86,7 @@ def search_random():
 
 def search_conversions(unit_from="miles", number_of=10):
 
-    for item in range(1, number_of):
+    for item in range(1, number_of + 1):
         search_string = "{item} {unit_from} to ".format(item=item, unit_from=unit_from)
         try:
             query_encoded = urllib.parse.quote_plus(search_string)
@@ -94,10 +94,9 @@ def search_conversions(unit_from="miles", number_of=10):
             webbrowser.open(url)
         except Exception as e:
             print(f"Failed to open URL for term '{search_string}': {e}")
-        time.sleep(5)  # Wait for 5 seconds
 
 
 if __name__ == "__main__":
 
     # search_random()
-    search_conversions()
+    search_conversions("degrees fareinheit")
