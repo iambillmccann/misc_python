@@ -94,9 +94,10 @@ def search_conversions(unit_from="miles", number_of=10):
             webbrowser.open(url)
         except Exception as e:
             print(f"Failed to open URL for term '{search_string}': {e}")
+        time.sleep(1)
 
 
 if __name__ == "__main__":
 
     # search_random()
-    search_conversions("pounds", 12)
+    search_conversions("miles", 15)
