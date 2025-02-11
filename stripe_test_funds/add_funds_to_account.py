@@ -38,7 +38,7 @@ def add_funds_with_token():
     try:
 
         charge = stripe.Charge.create(
-            amount=10000,  # amount in cents, e.g., $500.00
+            amount=126825,  # amount in cents, e.g., $500.00
             currency="usd",
             source="tok_visa",  # Use Stripe's test token
             description="Test charge to add funds to company account",
