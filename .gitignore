@@ -163,3 +163,4 @@ artistdata/ca-certificates.crt
 artistdata/env.py
 artist_data.json
 artist_data.json:Zone.Identifier
+*.Identifier
