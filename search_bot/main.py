@@ -100,4 +100,4 @@ def search_conversions(unit_from="miles", number_of=10):
 if __name__ == "__main__":
 
     # search_random()
-    search_conversions("kilometers", 25)
+    search_conversions("feet", 30)
