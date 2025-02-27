@@ -1,1508 +1,1508 @@
 {
     "fame": [
         {
-            "artistId": 105867,
-            "distance": 0.5454417701528009,
-            "artistName": "Henjila"
+            "artistId": 32299,
+            "distance": 1.0800809216816647,
+            "artistName": "Awa"
         },
         {
-            "artistId": 100675,
-            "distance": 0.5467431560956806,
-            "artistName": "Straalen"
+            "artistId": 10697,
+            "distance": 1.2622795221470369,
+            "artistName": "Sofia Karlberg"
+        },
+        {
+            "artistId": 15735,
+            "distance": 1.264734502976793,
+            "artistName": "Will Hyde"
+        },
+        {
+            "artistId": 6936,
+            "distance": 1.3222827824980952,
+            "artistName": "Sak Noel"
+        },
+        {
+            "artistId": 2771,
+            "distance": 1.338260543289578,
+            "artistName": "ILIRA"
+        },
+        {
+            "artistId": 33192,
+            "distance": 1.3383320946165655,
+            "artistName": "Domingo"
+        },
+        {
+            "artistId": 36522,
+            "distance": 1.3534294363965684,
+            "artistName": "CeCe"
+        },
+        {
+            "artistId": 75697,
+            "distance": 1.3550404715949769,
+            "artistName": "Park Bom"
+        },
+        {
+            "artistId": 92156,
+            "distance": 1.3592696136723623,
+            "artistName": "Adara"
+        },
+        {
+            "artistId": 45021,
+            "distance": 1.3682215482771285,
+            "artistName": "Kayna Samet"
+        },
+        {
+            "artistId": 6049,
+            "distance": 1.3714613267650448,
+            "artistName": "Matisse & Sadko"
+        },
+        {
+            "artistId": 4521,
+            "distance": 1.3725228279424628,
+            "artistName": "Chinchilla"
+        },
+        {
+            "artistId": 18436,
+            "distance": 1.3746912532612228,
+            "artistName": "Roman Messer"
+        },
+        {
+            "artistId": 26552,
+            "distance": 1.3816368146573828,
+            "artistName": "Michelle Gurevich"
+        },
+        {
+            "artistId": 55660,
+            "distance": 1.410654514670893,
+            "artistName": "Reefer Tym"
+        },
+        {
+            "artistId": 75308,
+            "distance": 1.4281162451349634,
+            "artistName": "Peter Bence"
+        },
+        {
+            "artistId": 5418,
+            "distance": 1.428815970481755,
+            "artistName": "Katie Melua"
+        },
+        {
+            "artistId": 49961,
+            "distance": 1.428909015377097,
+            "artistName": "Dorély"
+        },
+        {
+            "artistId": 30616,
+            "distance": 1.4445519567142655,
+            "artistName": "Hayce Lemsi"
+        },
+        {
+            "artistId": 83843,
+            "distance": 1.4489047498631278,
+            "artistName": "BOg"
+        },
+        {
+            "artistId": 21239,
+            "distance": 1.449712874289402,
+            "artistName": "Solven"
+        },
+        {
+            "artistId": 6044,
+            "distance": 1.451741037473129,
+            "artistName": "Harrison"
+        },
+        {
+            "artistId": 28493,
+            "distance": 1.4554898898596984,
+            "artistName": "Tara McDonald"
+        },
+        {
+            "artistId": 61727,
+            "distance": 1.4625911594784933,
+            "artistName": "Musumeci"
+        },
+        {
+            "artistId": 74321,
+            "distance": 1.462702598852065,
+            "artistName": "Megaski"
+        },
+        {
+            "artistId": 12028,
+            "distance": 1.4661901583816594,
+            "artistName": "Ouse"
+        },
+        {
+            "artistId": 39013,
+            "distance": 1.471305599866637,
+            "artistName": "Omar Souleyman"
+        },
+        {
+            "artistId": 13424,
+            "distance": 1.4780457935540796,
+            "artistName": "Sadek"
+        },
+        {
+            "artistId": 230,
+            "distance": 1.4788417891261851,
+            "artistName": "Rahat Fateh Ali Khan"
+        },
+        {
+            "artistId": 48980,
+            "distance": 1.4800582379498144,
+            "artistName": "Yahel"
+        },
+        {
+            "artistId": 95151,
+            "distance": 1.487446125213789,
+            "artistName": "Luka Sulic"
+        },
+        {
+            "artistId": 106476,
+            "distance": 1.4987211893061316,
+            "artistName": "Orphaned Land"
+        },
+        {
+            "artistId": 7241,
+            "distance": 1.5007781902813393,
+            "artistName": "Tiggs da Author"
+        },
+        {
+            "artistId": 23880,
+            "distance": 1.510913871166162,
+            "artistName": "JoJo Siwa"
+        },
+        {
+            "artistId": 16501,
+            "distance": 1.5124089913458432,
+            "artistName": "Rory Webley"
+        },
+        {
+            "artistId": 316,
+            "distance": 1.5126522576744892,
+            "artistName": "Goodboys"
+        },
+        {
+            "artistId": 93807,
+            "distance": 1.5290342633142622,
+            "artistName": "Mikayla Lane"
+        },
+        {
+            "artistId": 48836,
+            "distance": 1.5303159300840383,
+            "artistName": "Vera Brezhneva"
+        },
+        {
+            "artistId": 12252,
+            "distance": 1.5334719520203677,
+            "artistName": "Halle Abadi"
+        },
+        {
+            "artistId": 11819,
+            "distance": 1.53759962560513,
+            "artistName": "Tribal Kush"
+        },
+        {
+            "artistId": 11743,
+            "distance": 1.5378645704923632,
+            "artistName": "Calypso Rose"
+        },
+        {
+            "artistId": 2696,
+            "distance": 1.5499379227171293,
+            "artistName": "Steve Angello"
+        },
+        {
+            "artistId": 63991,
+            "distance": 1.5528736180363245,
+            "artistName": "LMK"
+        },
+        {
+            "artistId": 45407,
+            "distance": 1.5604419173957402,
+            "artistName": "Daymé Arocena"
+        },
+        {
+            "artistId": 45104,
+            "distance": 1.5607430957163582,
+            "artistName": "Niki DeMar"
+        },
+        {
+            "artistId": 110023,
+            "distance": 1.5634240439649905,
+            "artistName": "Ladaniva"
+        },
+        {
+            "artistId": 30407,
+            "distance": 1.565645619215028,
+            "artistName": "Emma"
+        },
+        {
+            "artistId": 46770,
+            "distance": 1.5661060360911765,
+            "artistName": "Jimmy Bolt"
+        },
+        {
+            "artistId": 807,
+            "distance": 1.5807639089522247,
+            "artistName": "HVME"
         },
         {
             "artistId": 100989,
-            "distance": 0.5469080930940735,
+            "distance": 1.5817454424282644,
             "artistName": "Kristofer Greczula"
         },
         {
-            "artistId": 77160,
-            "distance": 0.5510215960235929,
-            "artistName": "Jacob Browne"
+            "artistId": 97,
+            "distance": 1.6060465589657151,
+            "artistName": "Loreen"
         },
         {
-            "artistId": 94895,
-            "distance": 0.5536752451382982,
-            "artistName": "Andrew Southworth"
+            "artistId": 13732,
+            "distance": 1.6062567215737051,
+            "artistName": "Luke Black"
         },
         {
-            "artistId": 103255,
-            "distance": 0.5549726742204982,
-            "artistName": "Waiting for Smith"
+            "artistId": 3525,
+            "distance": 1.6132084328467446,
+            "artistName": "Kanika Kapoor"
         },
         {
-            "artistId": 69933,
-            "distance": 0.5564506897542221,
-            "artistName": "George Pelham"
-        },
-        {
-            "artistId": 110939,
-            "distance": 0.5567608376821496,
-            "artistName": "Barny Fletcher"
-        },
-        {
-            "artistId": 100305,
-            "distance": 0.5573850632336461,
-            "artistName": "Kudu Blue"
-        },
-        {
-            "artistId": 110621,
-            "distance": 0.5579436674757086,
-            "artistName": "Troi Irons"
-        },
-        {
-            "artistId": 97621,
-            "distance": 0.55817084641616,
-            "artistName": "Michael Rice"
-        },
-        {
-            "artistId": 99451,
-            "distance": 0.5590691784197559,
-            "artistName": "Udo"
-        },
-        {
-            "artistId": 108570,
-            "distance": 0.5594128560701911,
-            "artistName": "Marigo Bay"
-        },
-        {
-            "artistId": 84494,
-            "distance": 0.5594549037427605,
-            "artistName": "SIIGHTS"
-        },
-        {
-            "artistId": 102539,
-            "distance": 0.5594644139589466,
-            "artistName": "Tycho Jones"
-        },
-        {
-            "artistId": 94299,
-            "distance": 0.563019331859443,
-            "artistName": "Blv"
-        },
-        {
-            "artistId": 92497,
-            "distance": 0.5630849290258139,
-            "artistName": "L8loomer"
-        },
-        {
-            "artistId": 64800,
-            "distance": 0.5630853398003655,
-            "artistName": "Moscoman"
-        },
-        {
-            "artistId": 74102,
-            "distance": 0.5632843288803724,
-            "artistName": "СОЮЗ"
-        },
-        {
-            "artistId": 59548,
-            "distance": 0.563791359769584,
-            "artistName": "Josefine"
-        },
-        {
-            "artistId": 76865,
-            "distance": 0.5642542982721303,
-            "artistName": "Sarah Proctor"
-        },
-        {
-            "artistId": 103452,
-            "distance": 0.5642655765501949,
-            "artistName": "Yousef Kekhia"
-        },
-        {
-            "artistId": 23765,
-            "distance": 0.5651649489740577,
-            "artistName": "Kaleida"
-        },
-        {
-            "artistId": 77233,
-            "distance": 0.5660729019287855,
-            "artistName": "Sinkane"
-        },
-        {
-            "artistId": 56940,
-            "distance": 0.5663280014763717,
-            "artistName": "Camille Schneyder"
-        },
-        {
-            "artistId": 64024,
-            "distance": 0.5664262715776076,
-            "artistName": "Kamaleón"
-        },
-        {
-            "artistId": 63608,
-            "distance": 0.5666717110128701,
-            "artistName": "KORDELYA"
-        },
-        {
-            "artistId": 73980,
-            "distance": 0.5672384481981394,
-            "artistName": "Oh Hiroshima"
-        },
-        {
-            "artistId": 50968,
-            "distance": 0.5672657956852382,
-            "artistName": "Yoshi Flower"
-        },
-        {
-            "artistId": 86807,
-            "distance": 0.5676823160201169,
-            "artistName": "Tyler James Bellinger"
-        },
-        {
-            "artistId": 68878,
-            "distance": 0.568000554413194,
-            "artistName": "Tayrell"
-        },
-        {
-            "artistId": 63846,
-            "distance": 0.5682820271493418,
-            "artistName": "Jack Hawitt"
-        },
-        {
-            "artistId": 85044,
-            "distance": 0.568520832183625,
-            "artistName": "Kat Kennedy"
-        },
-        {
-            "artistId": 101287,
-            "distance": 0.5685421664199579,
-            "artistName": "Bryde"
-        },
-        {
-            "artistId": 60308,
-            "distance": 0.5686870715745843,
-            "artistName": "Jack Newsome"
-        },
-        {
-            "artistId": 67102,
-            "distance": 0.5691299695541738,
-            "artistName": "Sarah Téibo"
-        },
-        {
-            "artistId": 76320,
-            "distance": 0.5697104326601347,
-            "artistName": "Syde"
-        },
-        {
-            "artistId": 77567,
-            "distance": 0.5701363608570785,
-            "artistName": "Lion Sphere"
-        },
-        {
-            "artistId": 53194,
-            "distance": 0.5704152437016575,
-            "artistName": "Marina Lin"
-        },
-        {
-            "artistId": 93727,
-            "distance": 0.5710412602445845,
-            "artistName": "THE BLOSSOM"
-        },
-        {
-            "artistId": 79577,
-            "distance": 0.5711311723952014,
-            "artistName": "Ivory Layne"
-        },
-        {
-            "artistId": 31209,
-            "distance": 0.5712779695982375,
-            "artistName": "Sofia Quinn"
-        },
-        {
-            "artistId": 94417,
-            "distance": 0.5713960131652146,
-            "artistName": "Curses!"
-        },
-        {
-            "artistId": 74908,
-            "distance": 0.5717661578737782,
-            "artistName": "Karin Park"
-        },
-        {
-            "artistId": 63619,
-            "distance": 0.5718036107217557,
-            "artistName": "Jules Brave"
-        },
-        {
-            "artistId": 51526,
-            "distance": 0.5722700427954808,
-            "artistName": "Bond"
-        },
-        {
-            "artistId": 106926,
-            "distance": 0.5722724916171635,
-            "artistName": "Aaron Kellim"
-        },
-        {
-            "artistId": 59401,
-            "distance": 0.5722867810914355,
-            "artistName": "HMLTD"
-        },
-        {
-            "artistId": 52517,
-            "distance": 0.572296821190984,
-            "artistName": "Call Me Loop"
-        },
-        {
-            "artistId": 23531,
-            "distance": 0.5723129988534674,
-            "artistName": "Palm Trees"
-        },
-        {
-            "artistId": 81392,
-            "distance": 0.572657787982622,
-            "artistName": "KATE NV"
-        },
-        {
-            "artistId": 70565,
-            "distance": 0.5726706665336795,
-            "artistName": "Ai Bendr"
+            "artistId": 5658,
+            "distance": 1.620148444207957,
+            "artistName": "Niro"
         },
         {
             "artistId": 17237,
-            "distance": 0.5731284808349246,
+            "distance": 1.6256714630759015,
             "artistName": "Youka"
         },
         {
-            "artistId": 39827,
-            "distance": 0.5731635695854043,
-            "artistName": "Jaguar Jonze"
+            "artistId": 6600,
+            "distance": 1.6267394927049623,
+            "artistName": "The HU"
         },
         {
-            "artistId": 63446,
-            "distance": 0.5731981700535791,
-            "artistName": "Tanmaya Bhatnagar"
+            "artistId": 6342,
+            "distance": 1.6327445328781536,
+            "artistName": "Mister You"
         },
         {
-            "artistId": 83462,
-            "distance": 0.5735573677250323,
-            "artistName": "BLAISE MOORE"
+            "artistId": 42662,
+            "distance": 1.647541572556491,
+            "artistName": "Marga Sol"
         },
         {
-            "artistId": 75806,
-            "distance": 0.5737381660493868,
-            "artistName": "TYLERxCORDY"
+            "artistId": 42669,
+            "distance": 1.651844082777283,
+            "artistName": "Dubioza kolektiv"
         },
         {
-            "artistId": 91765,
-            "distance": 0.5745435959630145,
-            "artistName": "Haristone"
+            "artistId": 56652,
+            "distance": 1.6658097202658535,
+            "artistName": "Jai Nova"
         },
         {
-            "artistId": 78991,
-            "distance": 0.5746034155735105,
-            "artistName": "Anna B Savage"
+            "artistId": 108808,
+            "distance": 1.6676447385586906,
+            "artistName": "Outlaw MuddBaby"
         },
         {
-            "artistId": 95402,
-            "distance": 0.5746662863431932,
-            "artistName": "ALA.NI"
+            "artistId": 38031,
+            "distance": 1.6704597103212275,
+            "artistName": "Julieta"
         },
         {
-            "artistId": 39382,
-            "distance": 0.5747636672221579,
-            "artistName": "Alexiane"
+            "artistId": 64605,
+            "distance": 1.6713782941261297,
+            "artistName": "Djena Della"
         },
         {
-            "artistId": 95186,
-            "distance": 0.5750421057633744,
-            "artistName": "All We Are"
+            "artistId": 83500,
+            "distance": 1.6765573122188564,
+            "artistName": "Mike Vale"
         },
         {
-            "artistId": 47512,
-            "distance": 0.5750574578145543,
-            "artistName": "La Felix"
+            "artistId": 943,
+            "distance": 1.6859394793283144,
+            "artistName": "Bebe Rexha"
         },
         {
-            "artistId": 17218,
-            "distance": 0.5754373815904281,
-            "artistName": "PRETTY YOUNG"
+            "artistId": 29133,
+            "distance": 1.6970402020882092,
+            "artistName": "Dawty Music"
         },
         {
-            "artistId": 72908,
-            "distance": 0.5754923697566577,
-            "artistName": "Meridian Brothers"
+            "artistId": 46451,
+            "distance": 1.7078986303486858,
+            "artistName": "DJ Bliss"
         },
         {
-            "artistId": 68647,
-            "distance": 0.575994072341119,
-            "artistName": "DAP The Contract"
+            "artistId": 49514,
+            "distance": 1.7102925217338023,
+            "artistName": "Tinyumbrellas"
         },
         {
-            "artistId": 48918,
-            "distance": 0.5761194194512009,
-            "artistName": "Eli Keszler"
+            "artistId": 98503,
+            "distance": 1.7290608127830696,
+            "artistName": "Felukah"
         },
         {
-            "artistId": 71045,
-            "distance": 0.5761199486957309,
-            "artistName": "Ricky Dietz"
+            "artistId": 949,
+            "distance": 1.7357777645495829,
+            "artistName": "Alan Walker"
         },
         {
-            "artistId": 19138,
-            "distance": 0.5761725649920768,
-            "artistName": "Conor Matthews"
+            "artistId": 2444,
+            "distance": 1.7483242004225903,
+            "artistName": "KSI"
         },
         {
-            "artistId": 27282,
-            "distance": 0.5762666600161886,
-            "artistName": "Phoria"
+            "artistId": 38356,
+            "distance": 1.756225015505792,
+            "artistName": "Nakkia Gold"
         },
         {
-            "artistId": 48652,
-            "distance": 0.576393632121943,
-            "artistName": "Lao Ra"
+            "artistId": 471,
+            "distance": 1.7575281082660783,
+            "artistName": "Little Mix"
         },
         {
-            "artistId": 54761,
-            "distance": 0.5764613560987314,
-            "artistName": "Millie Turner"
+            "artistId": 7248,
+            "distance": 1.7615853022358012,
+            "artistName": "Timati"
         },
         {
-            "artistId": 15611,
-            "distance": 0.5764934861600687,
-            "artistName": "Hector Gachan"
+            "artistId": 4981,
+            "distance": 1.7665201781743691,
+            "artistName": "Noizy"
         },
         {
-            "artistId": 100258,
-            "distance": 0.576543363572967,
-            "artistName": "Iglu & Hartly"
+            "artistId": 8390,
+            "distance": 1.7769254909711063,
+            "artistName": "Mark Dekoda"
         },
         {
-            "artistId": 111510,
-            "distance": 0.5767046259793533,
-            "artistName": "Veronica Fusaro"
+            "artistId": 2756,
+            "distance": 1.789137037588903,
+            "artistName": "Jagjit Singh"
         },
         {
-            "artistId": 9511,
-            "distance": 0.5769243978386803,
-            "artistName": "Lizzy Land"
+            "artistId": 33125,
+            "distance": 1.8141525876103577,
+            "artistName": "Priyanka Chopra"
         },
         {
-            "artistId": 66053,
-            "distance": 0.5769464528803282,
-            "artistName": "August Eve"
+            "artistId": 446,
+            "distance": 1.8156481411808971,
+            "artistName": "Enrique Iglesias"
         },
         {
-            "artistId": 81302,
-            "distance": 0.5772160631662828,
-            "artistName": "Matija"
+            "artistId": 14556,
+            "distance": 1.8189147339271456,
+            "artistName": "Torine"
         },
         {
-            "artistId": 79965,
-            "distance": 0.577437314332671,
-            "artistName": "Ibibio Sound Machine"
+            "artistId": 43993,
+            "distance": 1.827813522975425,
+            "artistName": "Addison Rae"
         },
         {
-            "artistId": 40523,
-            "distance": 0.5775056066145846,
-            "artistName": "Caitlyn Scarlett"
+            "artistId": 43529,
+            "distance": 1.8428828424458008,
+            "artistName": "Bombino"
         },
         {
-            "artistId": 36554,
-            "distance": 0.5775811469520177,
-            "artistName": "Jeangu MacRooy"
+            "artistId": 36217,
+            "distance": 1.8619539677458992,
+            "artistName": "Deathstars"
         },
         {
-            "artistId": 103105,
-            "distance": 0.5779669314201438,
-            "artistName": "Part-Time Friends"
+            "artistId": 15776,
+            "distance": 1.8742400588905908,
+            "artistName": "Reiley"
         },
         {
-            "artistId": 111044,
-            "distance": 0.5779799101515102,
-            "artistName": "Yves Jarvis"
+            "artistId": 96251,
+            "distance": 1.8783364372208835,
+            "artistName": "Alex Kennon"
         },
         {
-            "artistId": 87365,
-            "distance": 0.5782305172568878,
-            "artistName": "CHAMPS"
+            "artistId": 16470,
+            "distance": 1.8789310107002628,
+            "artistName": "Henny"
         },
         {
-            "artistId": 62523,
-            "distance": 0.578397359703781,
-            "artistName": "Rose Gray"
+            "artistId": 9176,
+            "distance": 1.905764916405798,
+            "artistName": "Elvana Gjata"
         },
         {
-            "artistId": 10084,
-            "distance": 0.5784437595333758,
-            "artistName": "M-22"
+            "artistId": 264,
+            "distance": 1.925766761308208,
+            "artistName": "Inna"
         },
         {
-            "artistId": 63124,
-            "distance": 0.5784761569285106,
-            "artistName": "Kerri"
+            "artistId": 53249,
+            "distance": 1.930532396426794,
+            "artistName": "SKYND"
         },
         {
-            "artistId": 39836,
-            "distance": 0.5784944416734402,
-            "artistName": "Seckou Keita"
+            "artistId": 107470,
+            "distance": 1.937763812569145,
+            "artistName": "Havasi"
         },
         {
-            "artistId": 67286,
-            "distance": 0.5785553123995577,
-            "artistName": "DJ Python"
+            "artistId": 23224,
+            "distance": 1.9434068703128031,
+            "artistName": "Full Trunk"
         },
         {
-            "artistId": 81610,
-            "distance": 0.578576072173497,
-            "artistName": "Josin"
+            "artistId": 18462,
+            "distance": 1.947126575486384,
+            "artistName": "Kida"
         },
         {
-            "artistId": 96813,
-            "distance": 0.5786081154723386,
-            "artistName": "Platon Karataev"
+            "artistId": 80247,
+            "distance": 1.9497689340143831,
+            "artistName": "Sofi Marinova"
         },
         {
-            "artistId": 53958,
-            "distance": 0.5787008931827223,
-            "artistName": "Klockrent!"
+            "artistId": 31564,
+            "distance": 1.9515993545390633,
+            "artistName": "Željko Joksimović"
         },
         {
-            "artistId": 42837,
-            "distance": 0.5788458836367187,
-            "artistName": "KAJ"
+            "artistId": 74906,
+            "distance": 1.9616534264190804,
+            "artistName": "Elia"
         },
         {
-            "artistId": 37472,
-            "distance": 0.5790892036837945,
-            "artistName": "Monogem"
+            "artistId": 85133,
+            "distance": 1.968103205230687,
+            "artistName": "Nathassia"
         },
         {
-            "artistId": 22624,
-            "distance": 0.5791944195991027,
-            "artistName": "Raynes"
+            "artistId": 53168,
+            "distance": 1.976087230302071,
+            "artistName": "Lor Sosa"
         },
         {
-            "artistId": 91522,
-            "distance": 0.5793034442227482,
-            "artistName": "Nosoyo"
+            "artistId": 6975,
+            "distance": 1.9789129142980637,
+            "artistName": "Jordan Rys"
         },
         {
-            "artistId": 81636,
-            "distance": 0.579379703609954,
-            "artistName": "Sobs"
+            "artistId": 69569,
+            "distance": 1.982557841129868,
+            "artistName": "Felicia Lu"
         },
         {
-            "artistId": 29739,
-            "distance": 0.5794504317723299,
-            "artistName": "LIZ"
-        },
-        {
-            "artistId": 29389,
-            "distance": 0.5795518515425503,
-            "artistName": "Sølv"
-        },
-        {
-            "artistId": 17460,
-            "distance": 0.5796215489345342,
-            "artistName": "Lou Elliotte"
+            "artistId": 2137,
+            "distance": 1.9831826076514412,
+            "artistName": "Leon James"
         }
     ],
     "career": [
         {
-            "artistId": 105867,
-            "distance": 0.4663354815192938,
-            "artistName": "Henjila"
-        },
-        {
-            "artistId": 100675,
-            "distance": 0.4663475447413857,
-            "artistName": "Straalen"
-        },
-        {
-            "artistId": 100989,
-            "distance": 0.4663490826436275,
-            "artistName": "Kristofer Greczula"
-        },
-        {
-            "artistId": 101287,
-            "distance": 0.4665539005030282,
-            "artistName": "Bryde"
-        },
-        {
-            "artistId": 70565,
-            "distance": 0.46659383002738825,
-            "artistName": "Ai Bendr"
-        },
-        {
-            "artistId": 39827,
-            "distance": 0.4665986786500566,
-            "artistName": "Jaguar Jonze"
-        },
-        {
-            "artistId": 68647,
-            "distance": 0.4666262185907697,
-            "artistName": "DAP The Contract"
-        },
-        {
-            "artistId": 111044,
-            "distance": 0.4666457013656313,
-            "artistName": "Yves Jarvis"
-        },
-        {
-            "artistId": 89829,
-            "distance": 0.46671865181306593,
-            "artistName": "Cyril Mokaiesh"
-        },
-        {
-            "artistId": 101809,
-            "distance": 0.4667946574998845,
-            "artistName": "Sofia Kay"
-        },
-        {
-            "artistId": 82529,
-            "distance": 0.46689758588836094,
-            "artistName": "HANDSOME"
-        },
-        {
-            "artistId": 63338,
-            "distance": 0.4669093718826357,
-            "artistName": "Amber Ais"
-        },
-        {
-            "artistId": 105779,
-            "distance": 0.4669384946898706,
-            "artistName": "Undertekst"
-        },
-        {
-            "artistId": 106100,
-            "distance": 0.4694761718387582,
-            "artistName": "KAYMA"
-        },
-        {
-            "artistId": 63315,
-            "distance": 0.46960721251472426,
-            "artistName": "Mezzaluna"
-        },
-        {
-            "artistId": 62868,
-            "distance": 0.4723394538489307,
-            "artistName": "Tia Kofi"
-        },
-        {
             "artistId": 94758,
-            "distance": 0.4761570895994221,
+            "distance": 2.3062724806180204,
             "artistName": "Noy Meirson"
         },
         {
-            "artistId": 97606,
-            "distance": 0.4968212443327816,
-            "artistName": "Body Type"
-        },
-        {
-            "artistId": 110561,
-            "distance": 0.4971257707980678,
-            "artistName": "Callum Pitt"
-        },
-        {
-            "artistId": 93422,
-            "distance": 0.4972331346376984,
-            "artistName": "VASSIŁINA"
-        },
-        {
-            "artistId": 107449,
-            "distance": 0.4972619520109818,
-            "artistName": "Rhonda"
-        },
-        {
-            "artistId": 105804,
-            "distance": 0.4973315588769819,
-            "artistName": "Ramkot"
-        },
-        {
-            "artistId": 80395,
-            "distance": 0.4974467707337484,
-            "artistName": "Tyler Dial"
-        },
-        {
-            "artistId": 100934,
-            "distance": 0.52929083807758,
-            "artistName": "Hanna Pakarinen"
-        },
-        {
-            "artistId": 65826,
-            "distance": 0.531622789194096,
-            "artistName": "Monkeyneck"
-        },
-        {
-            "artistId": 102817,
-            "distance": 0.5326959967920532,
-            "artistName": "Taylor Hicks"
-        },
-        {
-            "artistId": 92716,
-            "distance": 0.5332736877530865,
-            "artistName": "Maeve"
-        },
-        {
-            "artistId": 76368,
-            "distance": 0.5380463426787062,
-            "artistName": "Nadine Sieben"
-        },
-        {
-            "artistId": 14219,
-            "distance": 0.5396194826768119,
-            "artistName": "Audrey"
-        },
-        {
-            "artistId": 108069,
-            "distance": 0.5401786639762103,
-            "artistName": "UEBO"
+            "artistId": 62868,
+            "distance": 2.330696424765694,
+            "artistName": "Tia Kofi"
         },
         {
             "artistId": 76315,
-            "distance": 0.5423887240851472,
+            "distance": 2.3440533951114637,
             "artistName": "ili"
         },
         {
-            "artistId": 18662,
-            "distance": 0.5458598028514027,
-            "artistName": "Samuel Cipta"
+            "artistId": 39827,
+            "distance": 2.351935044948014,
+            "artistName": "Jaguar Jonze"
         },
         {
-            "artistId": 96979,
-            "distance": 0.5517645395933507,
-            "artistName": "Andon"
+            "artistId": 109133,
+            "distance": 2.3575075201951945,
+            "artistName": "Kim Fisher"
         },
         {
-            "artistId": 92656,
-            "distance": 0.5802680380565557,
-            "artistName": "Jonathan Oliveira"
+            "artistId": 72193,
+            "distance": 2.3575438295593254,
+            "artistName": "Dance STASH"
         },
         {
-            "artistId": 104708,
-            "distance": 0.585249831860532,
-            "artistName": "Jinmi Abduls"
+            "artistId": 84716,
+            "distance": 2.357544401728039,
+            "artistName": "Ertunç"
         },
         {
-            "artistId": 78221,
-            "distance": 0.6075743634214446,
-            "artistName": "Ayuenstar"
+            "artistId": 108333,
+            "distance": 2.3575495019090456,
+            "artistName": "Eva Sita"
         },
         {
-            "artistId": 99250,
-            "distance": 0.6096603739352168,
-            "artistName": "LGS"
+            "artistId": 78377,
+            "distance": 2.357552038989584,
+            "artistName": "S. J. Jananiy"
         },
         {
-            "artistId": 80708,
-            "distance": 0.6290586717448777,
-            "artistName": "Patricia Kelly"
+            "artistId": 109548,
+            "distance": 2.3575548839762095,
+            "artistName": "Jeremy Shayne"
         },
         {
-            "artistId": 108384,
-            "distance": 0.6304912181713568,
-            "artistName": "Helian Evans"
+            "artistId": 59071,
+            "distance": 2.3576282533540023,
+            "artistName": "Tarralyn Ramsey"
+        },
+        {
+            "artistId": 112086,
+            "distance": 2.357635774296582,
+            "artistName": "Samae Koskinen"
+        },
+        {
+            "artistId": 107571,
+            "distance": 2.3576542795534228,
+            "artistName": "Jamie Harrison"
+        },
+        {
+            "artistId": 86692,
+            "distance": 2.357718520636067,
+            "artistName": "Gaby Noya"
+        },
+        {
+            "artistId": 111329,
+            "distance": 2.3577627500828444,
+            "artistName": "Franki Love"
+        },
+        {
+            "artistId": 106722,
+            "distance": 2.3579041896312787,
+            "artistName": "Yozoh"
+        },
+        {
+            "artistId": 61742,
+            "distance": 2.358161809844826,
+            "artistName": "Cadillac Muzik"
+        },
+        {
+            "artistId": 55588,
+            "distance": 2.365299911556269,
+            "artistName": "Alek Sandar"
+        },
+        {
+            "artistId": 82669,
+            "distance": 2.3653296444531584,
+            "artistName": "Ashlee Keating"
+        },
+        {
+            "artistId": 112428,
+            "distance": 2.3653864572950174,
+            "artistName": "Karine Hannah"
+        },
+        {
+            "artistId": 85775,
+            "distance": 2.3653914944908685,
+            "artistName": "Diego e Marcel"
+        },
+        {
+            "artistId": 99316,
+            "distance": 2.3653946239496917,
+            "artistName": "呂薔Amuyi"
+        },
+        {
+            "artistId": 101972,
+            "distance": 2.3654458865471506,
+            "artistName": "Zé Felipe & Miguel"
+        },
+        {
+            "artistId": 113251,
+            "distance": 2.365554762551534,
+            "artistName": "Lam Anh"
+        },
+        {
+            "artistId": 53863,
+            "distance": 2.365567967198236,
+            "artistName": "Tito Jackson"
+        },
+        {
+            "artistId": 80530,
+            "distance": 2.365598914596096,
+            "artistName": "Milongas Extremas"
+        },
+        {
+            "artistId": 100675,
+            "distance": 2.3665851281255703,
+            "artistName": "Straalen"
+        },
+        {
+            "artistId": 101287,
+            "distance": 2.3667578572834103,
+            "artistName": "Bryde"
+        },
+        {
+            "artistId": 113720,
+            "distance": 2.3728825401692335,
+            "artistName": "Kritiko"
+        },
+        {
+            "artistId": 98669,
+            "distance": 2.37290127724,
+            "artistName": "Moises Losada"
+        },
+        {
+            "artistId": 113740,
+            "distance": 2.372913781798878,
+            "artistName": "Caroline Romano"
+        },
+        {
+            "artistId": 74682,
+            "distance": 2.3729376991600266,
+            "artistName": "CAROLINE"
+        },
+        {
+            "artistId": 111767,
+            "distance": 2.3729428167829067,
+            "artistName": "Võ Hạ Trâm"
+        },
+        {
+            "artistId": 97189,
+            "distance": 2.3729805382337057,
+            "artistName": "Emma White"
+        },
+        {
+            "artistId": 88862,
+            "distance": 2.3730330352843305,
+            "artistName": "Dilan Jay"
+        },
+        {
+            "artistId": 48863,
+            "distance": 2.3734614582653104,
+            "artistName": "Latasha Lee"
+        },
+        {
+            "artistId": 71279,
+            "distance": 2.3734925147568,
+            "artistName": "Dúo Encantos"
+        },
+        {
+            "artistId": 100934,
+            "distance": 2.3735556441549743,
+            "artistName": "Hanna Pakarinen"
+        },
+        {
+            "artistId": 86835,
+            "distance": 2.374379125706319,
+            "artistName": "The Titans"
         },
         {
             "artistId": 112111,
-            "distance": 0.6445037894647067,
+            "distance": 2.3752680666777457,
             "artistName": "Deep Sea Diving Club"
         },
         {
-            "artistId": 103298,
-            "distance": 0.644822421124816,
-            "artistName": "Bliss Samsa"
+            "artistId": 107449,
+            "distance": 2.3780037848939797,
+            "artistName": "Rhonda"
         },
         {
-            "artistId": 110868,
-            "distance": 0.6449058426273738,
-            "artistName": "nicole han"
+            "artistId": 98507,
+            "distance": 2.379061952586162,
+            "artistName": "Çiljeta"
         },
         {
-            "artistId": 99985,
-            "distance": 0.6449379734755312,
-            "artistName": "LUMIÈRE"
+            "artistId": 37118,
+            "distance": 2.379096391114285,
+            "artistName": "Mr. C"
         },
         {
-            "artistId": 64793,
-            "distance": 0.6475570503437333,
-            "artistName": "Owenn"
+            "artistId": 73434,
+            "distance": 2.3791116640791334,
+            "artistName": "CC Clarke"
         },
         {
-            "artistId": 67512,
-            "distance": 0.6476305929475225,
-            "artistName": "Maysha Jhuan"
+            "artistId": 113211,
+            "distance": 2.384406799409706,
+            "artistName": "Laura Mam"
         },
         {
-            "artistId": 55660,
-            "distance": 0.6523070066719548,
-            "artistName": "Reefer Tym"
+            "artistId": 102817,
+            "distance": 2.385917314447573,
+            "artistName": "Taylor Hicks"
         },
         {
-            "artistId": 110992,
-            "distance": 0.6770494494008887,
-            "artistName": "Elha Nympha"
-        },
-        {
-            "artistId": 36522,
-            "distance": 0.6832236781383031,
-            "artistName": "CeCe"
-        },
-        {
-            "artistId": 108231,
-            "distance": 0.6959461718472868,
-            "artistName": "KAIYI"
-        },
-        {
-            "artistId": 50885,
-            "distance": 0.701264198211819,
-            "artistName": "dani"
-        },
-        {
-            "artistId": 107994,
-            "distance": 0.7022457571094937,
-            "artistName": "Strobaek"
-        },
-        {
-            "artistId": 80040,
-            "distance": 0.7024420494667988,
-            "artistName": "Sami The Collector"
-        },
-        {
-            "artistId": 92011,
-            "distance": 0.7028291272148598,
-            "artistName": "カメレオン・ライム・ウーピーパイ"
-        },
-        {
-            "artistId": 40715,
-            "distance": 0.7037805376764911,
-            "artistName": "Alya"
-        },
-        {
-            "artistId": 112328,
-            "distance": 0.7037805377111638,
-            "artistName": "Frizzle Anne"
-        },
-        {
-            "artistId": 103798,
-            "distance": 0.7037805377121751,
-            "artistName": "Sophia Fredskild"
-        },
-        {
-            "artistId": 107179,
-            "distance": 0.7037805377166421,
-            "artistName": "Elaskia"
-        },
-        {
-            "artistId": 62345,
-            "distance": 0.7037805377483899,
-            "artistName": "Om Karr"
-        },
-        {
-            "artistId": 93199,
-            "distance": 0.7037805377618335,
-            "artistName": "StarAce"
-        },
-        {
-            "artistId": 77816,
-            "distance": 0.7037805377620315,
-            "artistName": "Sydney Sherrill"
-        },
-        {
-            "artistId": 89876,
-            "distance": 0.7037805377757452,
-            "artistName": "Norbert Wronka"
-        },
-        {
-            "artistId": 106450,
-            "distance": 0.7037805377813565,
-            "artistName": "Avishek Majumder"
-        },
-        {
-            "artistId": 108990,
-            "distance": 0.7037805377900791,
-            "artistName": "Glen Hanz Sky"
-        },
-        {
-            "artistId": 33590,
-            "distance": 0.7037805377912418,
-            "artistName": "Miles Arnell"
-        },
-        {
-            "artistId": 95955,
-            "distance": 0.7037805378007966,
-            "artistName": "Grannes"
-        },
-        {
-            "artistId": 86888,
-            "distance": 0.7037805378061043,
-            "artistName": "Amiel Aban"
+            "artistId": 111246,
+            "distance": 2.38921126234827,
+            "artistName": "Giulia"
         },
         {
             "artistId": 86661,
-            "distance": 0.7037805378078898,
+            "distance": 2.39126791419464,
             "artistName": "Patryk Skoczyński"
         },
         {
-            "artistId": 87911,
-            "distance": 0.7037805378142817,
-            "artistName": "AUDV"
-        },
-        {
-            "artistId": 81301,
-            "distance": 0.7037805378281126,
-            "artistName": "Qasim Arshad"
-        },
-        {
-            "artistId": 84952,
-            "distance": 0.7037805378289812,
-            "artistName": "Kenneka Cook"
-        },
-        {
-            "artistId": 66427,
-            "distance": 0.7037805378339501,
-            "artistName": "Abhishek Anil Sharma"
-        },
-        {
-            "artistId": 100816,
-            "distance": 0.7037805378346955,
-            "artistName": "David Ros"
-        },
-        {
-            "artistId": 101258,
-            "distance": 0.7037805378400355,
-            "artistName": "César Pinzón"
-        },
-        {
-            "artistId": 71958,
-            "distance": 0.7037805378515227,
-            "artistName": "Coral Palms"
-        },
-        {
-            "artistId": 97352,
-            "distance": 0.7037805378553628,
-            "artistName": "George Redwood"
-        },
-        {
-            "artistId": 84441,
-            "distance": 0.7037805378603604,
-            "artistName": "LUKA"
-        },
-        {
-            "artistId": 107224,
-            "distance": 0.7037805378606624,
-            "artistName": "Moana"
-        },
-        {
-            "artistId": 107324,
-            "distance": 0.7037805378627323,
-            "artistName": "Celia Becks"
-        },
-        {
-            "artistId": 97182,
-            "distance": 0.7037805378631411,
-            "artistName": "Facing Waves"
-        },
-        {
-            "artistId": 113666,
-            "distance": 0.7037805378671406,
-            "artistName": "Arliston"
-        },
-        {
-            "artistId": 110017,
-            "distance": 0.703780537867557,
-            "artistName": "Shriyash Sahu"
-        },
-        {
-            "artistId": 110815,
-            "distance": 0.7037805378693426,
-            "artistName": "Richard J. Birkin"
-        },
-        {
-            "artistId": 113646,
-            "distance": 0.7037805378780323,
-            "artistName": "Rama Davis"
-        },
-        {
-            "artistId": 93997,
-            "distance": 0.7037805378785197,
-            "artistName": "Kirdaar"
-        },
-        {
-            "artistId": 101228,
-            "distance": 0.7037805378799237,
-            "artistName": "Ole Henrik Risøy Solheim"
-        },
-        {
-            "artistId": 108810,
-            "distance": 0.7037805378871514,
-            "artistName": "Paulina"
-        },
-        {
-            "artistId": 112702,
-            "distance": 0.7037805379044906,
-            "artistName": "April Darby"
-        },
-        {
-            "artistId": 77765,
-            "distance": 0.7037805379056018,
-            "artistName": "Rickysee"
-        },
-        {
-            "artistId": 109943,
-            "distance": 0.7037805379081471,
-            "artistName": "Burcu Arı"
-        },
-        {
-            "artistId": 107869,
-            "distance": 0.7037805379126871,
-            "artistName": "Ankit Amoli"
-        },
-        {
-            "artistId": 111780,
-            "distance": 0.7037805379217473,
-            "artistName": "GILSKA"
-        },
-        {
-            "artistId": 46949,
-            "distance": 0.7037805379253051,
-            "artistName": "fuse"
-        },
-        {
-            "artistId": 106663,
-            "distance": 0.703780537933562,
-            "artistName": "Skinny Beats"
-        },
-        {
-            "artistId": 106827,
-            "distance": 0.7037805379403433,
-            "artistName": "ST LUNA"
-        },
-        {
-            "artistId": 106854,
-            "distance": 0.7037805379443824,
-            "artistName": "Acent"
-        },
-        {
-            "artistId": 104264,
-            "distance": 0.7037805379499049,
-            "artistName": "Femi"
-        },
-        {
-            "artistId": 97516,
-            "distance": 0.7037805379512257,
-            "artistName": "Jay Bhattacharya"
+            "artistId": 112328,
+            "distance": 2.3912756189814326,
+            "artistName": "Frizzle Anne"
         },
         {
             "artistId": 103875,
-            "distance": 0.7037805379597574,
+            "distance": 2.391279643525727,
             "artistName": "Luiza Dam"
         },
         {
-            "artistId": 87213,
-            "distance": 0.7037805379600309,
-            "artistName": "Break Out The Crazy"
+            "artistId": 81967,
+            "distance": 2.3912834841899566,
+            "artistName": "Peter Piek"
         },
         {
-            "artistId": 105324,
-            "distance": 0.7037805379621008,
-            "artistName": "Veys Colak"
+            "artistId": 100816,
+            "distance": 2.3912857864913306,
+            "artistName": "David Ros"
+        },
+        {
+            "artistId": 95955,
+            "distance": 2.3912884138073456,
+            "artistName": "Grannes"
+        },
+        {
+            "artistId": 102035,
+            "distance": 2.391294245341141,
+            "artistName": "Draaco Aventura"
+        },
+        {
+            "artistId": 63956,
+            "distance": 2.3912944994247054,
+            "artistName": "Olia Tira"
+        },
+        {
+            "artistId": 111470,
+            "distance": 2.391310760544523,
+            "artistName": "Macuiles"
+        },
+        {
+            "artistId": 79316,
+            "distance": 2.3913233169896806,
+            "artistName": "Bartek Królik"
+        },
+        {
+            "artistId": 113335,
+            "distance": 2.3913302099739235,
+            "artistName": "Fionn"
+        },
+        {
+            "artistId": 110029,
+            "distance": 2.3913322431002046,
+            "artistName": "Piettro"
+        },
+        {
+            "artistId": 113288,
+            "distance": 2.391369632296936,
+            "artistName": "Jazz Morley"
+        },
+        {
+            "artistId": 103802,
+            "distance": 2.391413396232423,
+            "artistName": "VALERAS"
+        },
+        {
+            "artistId": 107963,
+            "distance": 2.3914185462378517,
+            "artistName": "Peterpan Complex"
+        },
+        {
+            "artistId": 49830,
+            "distance": 2.391458533475465,
+            "artistName": "Victoria Anthony"
+        },
+        {
+            "artistId": 26306,
+            "distance": 2.391562756017181,
+            "artistName": "Jordan McGraw"
+        },
+        {
+            "artistId": 108259,
+            "distance": 2.391648241541555,
+            "artistName": "Issa Rodriguez"
+        },
+        {
+            "artistId": 102656,
+            "distance": 2.39197082569576,
+            "artistName": "Rosie McClelland"
+        },
+        {
+            "artistId": 18662,
+            "distance": 2.3919993906030825,
+            "artistName": "Samuel Cipta"
+        },
+        {
+            "artistId": 80708,
+            "distance": 2.3928100679683184,
+            "artistName": "Patricia Kelly"
+        },
+        {
+            "artistId": 47431,
+            "distance": 2.397954000848412,
+            "artistName": "Jessica Sanchez"
+        },
+        {
+            "artistId": 85133,
+            "distance": 2.3985048640732716,
+            "artistName": "Nathassia"
+        },
+        {
+            "artistId": 105774,
+            "distance": 2.3991091432842704,
+            "artistName": "BCKYRD"
+        },
+        {
+            "artistId": 99710,
+            "distance": 2.3991126936932123,
+            "artistName": "Abboud"
+        },
+        {
+            "artistId": 67803,
+            "distance": 2.3991131451903573,
+            "artistName": "Akamodo"
+        },
+        {
+            "artistId": 94585,
+            "distance": 2.399113288848606,
+            "artistName": "Erika Selin"
+        },
+        {
+            "artistId": 106985,
+            "distance": 2.399114499685966,
+            "artistName": "LeeTowers"
+        },
+        {
+            "artistId": 110385,
+            "distance": 2.39911636723885,
+            "artistName": "Jenna Alexa"
+        },
+        {
+            "artistId": 105759,
+            "distance": 2.3991180500922167,
+            "artistName": "Oğuz Turgutgenç"
+        },
+        {
+            "artistId": 63623,
+            "distance": 2.39911827240164,
+            "artistName": "Boxter"
+        },
+        {
+            "artistId": 96339,
+            "distance": 2.3991183989808937,
+            "artistName": "Jeune Lio"
+        },
+        {
+            "artistId": 73483,
+            "distance": 2.399120574373006,
+            "artistName": "J.seph"
+        },
+        {
+            "artistId": 76302,
+            "distance": 2.3991214768650404,
+            "artistName": "Vikki Leigh"
+        },
+        {
+            "artistId": 111366,
+            "distance": 2.3991226518802926,
+            "artistName": "Duco"
+        },
+        {
+            "artistId": 102216,
+            "distance": 2.3991227497693597,
+            "artistName": "Benjamin"
+        },
+        {
+            "artistId": 97524,
+            "distance": 2.399125340273821,
+            "artistName": "Paul Brunner"
+        },
+        {
+            "artistId": 73092,
+            "distance": 2.3991258802172735,
+            "artistName": "SoShy"
+        },
+        {
+            "artistId": 76085,
+            "distance": 2.399126890596418,
+            "artistName": "Bizzy"
+        },
+        {
+            "artistId": 28064,
+            "distance": 2.399126895337244,
+            "artistName": "Theodor Andrei"
+        },
+        {
+            "artistId": 62642,
+            "distance": 2.3991275931061273,
+            "artistName": "Ellie Evans"
+        },
+        {
+            "artistId": 92436,
+            "distance": 2.399127675196544,
+            "artistName": "SHERIE"
+        },
+        {
+            "artistId": 62290,
+            "distance": 2.3991286507435583,
+            "artistName": "Udbhav"
+        },
+        {
+            "artistId": 88357,
+            "distance": 2.399129111779742,
+            "artistName": "The Lucky Boss"
+        },
+        {
+            "artistId": 113204,
+            "distance": 2.3991298768567524,
+            "artistName": "Delon"
+        },
+        {
+            "artistId": 85177,
+            "distance": 2.399130014813137,
+            "artistName": "Three of Us"
+        },
+        {
+            "artistId": 68564,
+            "distance": 2.399130031336388,
+            "artistName": "Issey"
+        },
+        {
+            "artistId": 103851,
+            "distance": 2.399131011601787,
+            "artistName": "Wes Calliope"
+        },
+        {
+            "artistId": 63725,
+            "distance": 2.3991310563466315,
+            "artistName": "Mercedes"
+        },
+        {
+            "artistId": 104998,
+            "distance": 2.3991333394395187,
+            "artistName": "Cody Uni5"
+        },
+        {
+            "artistId": 18296,
+            "distance": 2.3991340763111393,
+            "artistName": "Mohana"
+        },
+        {
+            "artistId": 106035,
+            "distance": 2.399137435156382,
+            "artistName": "Sami Khan"
+        },
+        {
+            "artistId": 89622,
+            "distance": 2.399137774660044,
+            "artistName": "Teo Bok"
         }
     ],
     "fortune": [
         {
-            "artistId": 105867,
-            "distance": 1.1972960308281095,
-            "artistName": "Henjila"
-        },
-        {
-            "artistId": 100675,
-            "distance": 1.197300532004694,
-            "artistName": "Straalen"
-        },
-        {
-            "artistId": 100989,
-            "distance": 1.1973011031769825,
-            "artistName": "Kristofer Greczula"
-        },
-        {
-            "artistId": 101287,
-            "distance": 1.19737752247501,
-            "artistName": "Bryde"
-        },
-        {
-            "artistId": 70565,
-            "distance": 1.1973924417813384,
-            "artistName": "Ai Bendr"
-        },
-        {
-            "artistId": 39827,
-            "distance": 1.1973942303671614,
-            "artistName": "Jaguar Jonze"
-        },
-        {
-            "artistId": 68647,
-            "distance": 1.1974045300867024,
-            "artistName": "DAP The Contract"
-        },
-        {
-            "artistId": 111044,
-            "distance": 1.1974117867623364,
-            "artistName": "Yves Jarvis"
-        },
-        {
-            "artistId": 89829,
-            "distance": 1.197439036864132,
-            "artistName": "Cyril Mokaiesh"
-        },
-        {
-            "artistId": 101809,
-            "distance": 1.1974674152550464,
-            "artistName": "Sofia Kay"
-        },
-        {
-            "artistId": 82529,
-            "distance": 1.197505853937208,
-            "artistName": "HANDSOME"
-        },
-        {
-            "artistId": 63338,
-            "distance": 1.1975102541913318,
-            "artistName": "Amber Ais"
-        },
-        {
-            "artistId": 105779,
-            "distance": 1.1975211328752997,
-            "artistName": "Undertekst"
-        },
-        {
-            "artistId": 106100,
-            "distance": 1.1984711627381393,
-            "artistName": "KAYMA"
-        },
-        {
-            "artistId": 63315,
-            "distance": 1.1985203387678605,
-            "artistName": "Mezzaluna"
-        },
-        {
-            "artistId": 62868,
-            "distance": 1.1995483547825794,
-            "artistName": "Tia Kofi"
-        },
-        {
-            "artistId": 77160,
-            "distance": 1.2002566869758975,
-            "artistName": "Jacob Browne"
-        },
-        {
-            "artistId": 94895,
-            "distance": 1.200264122527582,
-            "artistName": "Andrew Southworth"
-        },
-        {
-            "artistId": 69933,
-            "distance": 1.2002763501920173,
-            "artistName": "George Pelham"
-        },
-        {
-            "artistId": 100305,
-            "distance": 1.200278902844423,
-            "artistName": "Kudu Blue"
-        },
-        {
-            "artistId": 110621,
-            "distance": 1.2002798376350952,
-            "artistName": "Troi Irons"
-        },
-        {
-            "artistId": 99451,
-            "distance": 1.2002847615730448,
-            "artistName": "Udo"
-        },
-        {
-            "artistId": 102539,
-            "distance": 1.2002866153075578,
-            "artistName": "Tycho Jones"
-        },
-        {
-            "artistId": 108570,
-            "distance": 1.2002868574373298,
-            "artistName": "Marigo Bay"
-        },
-        {
-            "artistId": 92497,
-            "distance": 1.2002993221767402,
-            "artistName": "L8loomer"
-        },
-        {
-            "artistId": 59548,
-            "distance": 1.200302064207367,
-            "artistName": "Josefine"
-        },
-        {
-            "artistId": 63619,
-            "distance": 1.200329843682886,
-            "artistName": "Jules Brave"
-        },
-        {
-            "artistId": 71045,
-            "distance": 1.200346396496698,
-            "artistName": "Ricky Dietz"
-        },
-        {
-            "artistId": 110893,
-            "distance": 1.20038082817333,
-            "artistName": "Baasch"
-        },
-        {
-            "artistId": 108263,
-            "distance": 1.2003888780919238,
-            "artistName": "Gwenno"
-        },
-        {
-            "artistId": 108807,
-            "distance": 1.2004120010947212,
-            "artistName": "Approachable Members Of Your Local Community"
-        },
-        {
-            "artistId": 99885,
-            "distance": 1.2004190853336023,
-            "artistName": "Eluera"
-        },
-        {
-            "artistId": 61021,
-            "distance": 1.2004338433906006,
-            "artistName": "Illian"
-        },
-        {
-            "artistId": 112084,
-            "distance": 1.2004341456463952,
-            "artistName": "Kean Kavanagh"
-        },
-        {
-            "artistId": 110711,
-            "distance": 1.2004516604282935,
-            "artistName": "brenn."
-        },
-        {
-            "artistId": 104280,
-            "distance": 1.2004556442204557,
-            "artistName": "Batomae"
-        },
-        {
-            "artistId": 86916,
-            "distance": 1.2004725409779573,
-            "artistName": "Heidi (The Girl with The Hair)"
-        },
-        {
-            "artistId": 102816,
-            "distance": 1.2004863116247444,
-            "artistName": "Mappe Of"
-        },
-        {
             "artistId": 94758,
-            "distance": 1.200993260057721,
+            "distance": 1.237483374574832,
             "artistName": "Noy Meirson"
         },
         {
-            "artistId": 75238,
-            "distance": 1.2012888980553074,
-            "artistName": "Brooke"
-        },
-        {
-            "artistId": 113384,
-            "distance": 1.2015531285402854,
-            "artistName": "Miranda Santizo"
-        },
-        {
-            "artistId": 93294,
-            "distance": 1.201937577519857,
-            "artistName": "NorthKid"
-        },
-        {
-            "artistId": 103255,
-            "distance": 1.2031182814205563,
-            "artistName": "Waiting for Smith"
-        },
-        {
-            "artistId": 110939,
-            "distance": 1.2031232001261212,
-            "artistName": "Barny Fletcher"
-        },
-        {
-            "artistId": 97621,
-            "distance": 1.2031294674438004,
-            "artistName": "Michael Rice"
-        },
-        {
-            "artistId": 103452,
-            "distance": 1.2031504241436837,
-            "artistName": "Yousef Kekhia"
-        },
-        {
-            "artistId": 93727,
-            "distance": 1.2031724494119846,
-            "artistName": "THE BLOSSOM"
-        },
-        {
-            "artistId": 74908,
-            "distance": 1.2031755356268832,
-            "artistName": "Karin Park"
-        },
-        {
-            "artistId": 95186,
-            "distance": 1.2031853181554657,
-            "artistName": "All We Are"
-        },
-        {
-            "artistId": 78991,
-            "distance": 1.2031853231693912,
-            "artistName": "Anna B Savage"
-        },
-        {
-            "artistId": 111510,
-            "distance": 1.2031947024400378,
-            "artistName": "Veronica Fusaro"
-        },
-        {
-            "artistId": 103105,
-            "distance": 1.203199292057895,
-            "artistName": "Part-Time Friends"
-        },
-        {
-            "artistId": 111952,
-            "distance": 1.203246151685052,
-            "artistName": "Margarita Quebrada"
-        },
-        {
-            "artistId": 70449,
-            "distance": 1.2032462118386844,
-            "artistName": "BRYAN THE MENSAH"
-        },
-        {
-            "artistId": 103123,
-            "distance": 1.2032548673062415,
-            "artistName": "Marem Ladson"
-        },
-        {
-            "artistId": 101719,
-            "distance": 1.2032718320242763,
-            "artistName": "Mega Bog"
-        },
-        {
-            "artistId": 58969,
-            "distance": 1.2033014202802377,
-            "artistName": "Last Minute India"
-        },
-        {
-            "artistId": 98093,
-            "distance": 1.2033530826200065,
-            "artistName": "Masaya"
-        },
-        {
             "artistId": 106112,
-            "distance": 1.2037192493698223,
+            "distance": 1.2757777315718508,
             "artistName": "Aidan Alexander"
         },
         {
-            "artistId": 99761,
-            "distance": 1.2038856515018157,
-            "artistName": "Lacy Cavalier"
+            "artistId": 62868,
+            "distance": 1.280436591813102,
+            "artistName": "Tia Kofi"
         },
         {
-            "artistId": 71560,
-            "distance": 1.2053109557823938,
-            "artistName": "BLACKSTARKIDS"
+            "artistId": 105155,
+            "distance": 1.282179275149997,
+            "artistName": "5NAPBACK"
         },
         {
-            "artistId": 99577,
-            "distance": 1.2053650666629612,
-            "artistName": "Bachelor"
+            "artistId": 108471,
+            "distance": 1.2901399184440596,
+            "artistName": "The Dirty River Boys"
         },
         {
-            "artistId": 94299,
-            "distance": 1.2054560664059517,
-            "artistName": "Blv"
+            "artistId": 71177,
+            "distance": 1.2912307406616126,
+            "artistName": "Deep Sea Diver"
         },
         {
-            "artistId": 86807,
-            "distance": 1.2054734076881355,
-            "artistName": "Tyler James Bellinger"
+            "artistId": 63415,
+            "distance": 1.2936140728265966,
+            "artistName": "Jerry Paper"
         },
         {
-            "artistId": 107700,
-            "distance": 1.205479703013602,
-            "artistName": "Lespecial"
+            "artistId": 66786,
+            "distance": 1.2951266080236656,
+            "artistName": "Dapa Deep"
         },
         {
-            "artistId": 83462,
-            "distance": 1.2054847058017903,
-            "artistName": "BLAISE MOORE"
+            "artistId": 49397,
+            "distance": 1.2957392316043923,
+            "artistName": "Trea Landon"
+        },
+        {
+            "artistId": 53194,
+            "distance": 1.295751084383456,
+            "artistName": "Marina Lin"
+        },
+        {
+            "artistId": 52799,
+            "distance": 1.2957582441533684,
+            "artistName": "Billy Nomates"
+        },
+        {
+            "artistId": 74496,
+            "distance": 1.2970126798217196,
+            "artistName": "Eli Escobar"
+        },
+        {
+            "artistId": 106688,
+            "distance": 1.2976883579698737,
+            "artistName": "SORAN"
+        },
+        {
+            "artistId": 92559,
+            "distance": 1.2984998454102863,
+            "artistName": "KESMAR"
+        },
+        {
+            "artistId": 107723,
+            "distance": 1.29928991653758,
+            "artistName": "Salyu"
+        },
+        {
+            "artistId": 104280,
+            "distance": 1.302463716586506,
+            "artistName": "Batomae"
+        },
+        {
+            "artistId": 111273,
+            "distance": 1.3026650228031529,
+            "artistName": "Iggi Kelly"
+        },
+        {
+            "artistId": 76315,
+            "distance": 1.3036960357592915,
+            "artistName": "ili"
+        },
+        {
+            "artistId": 84852,
+            "distance": 1.3041440815095362,
+            "artistName": "Lucrecia Dalt"
+        },
+        {
+            "artistId": 86746,
+            "distance": 1.3042104423343797,
+            "artistName": "Mario Jose"
+        },
+        {
+            "artistId": 39706,
+            "distance": 1.3043829805388134,
+            "artistName": "Y La Bamba"
+        },
+        {
+            "artistId": 74869,
+            "distance": 1.304786857055209,
+            "artistName": "Felipe Santos"
+        },
+        {
+            "artistId": 42338,
+            "distance": 1.3070111389712098,
+            "artistName": "Brynn Elliott"
+        },
+        {
+            "artistId": 41716,
+            "distance": 1.3070403365714762,
+            "artistName": "The Mysterines"
+        },
+        {
+            "artistId": 64800,
+            "distance": 1.307060153593355,
+            "artistName": "Moscoman"
+        },
+        {
+            "artistId": 29739,
+            "distance": 1.3071872281719488,
+            "artistName": "LIZ"
+        },
+        {
+            "artistId": 68914,
+            "distance": 1.307622553751015,
+            "artistName": "Iosonouncane"
+        },
+        {
+            "artistId": 88185,
+            "distance": 1.3079495561178862,
+            "artistName": "Aladin 135"
+        },
+        {
+            "artistId": 19975,
+            "distance": 1.3083814670405192,
+            "artistName": "Lord Siva"
+        },
+        {
+            "artistId": 41206,
+            "distance": 1.3084263497948974,
+            "artistName": "Kalandra"
+        },
+        {
+            "artistId": 49947,
+            "distance": 1.3092662206508856,
+            "artistName": "Kitchen Dwellers"
+        },
+        {
+            "artistId": 94417,
+            "distance": 1.3096575858385255,
+            "artistName": "Curses!"
+        },
+        {
+            "artistId": 10786,
+            "distance": 1.3108122183783293,
+            "artistName": "Xuitcasecity"
+        },
+        {
+            "artistId": 51808,
+            "distance": 1.3109481537699117,
+            "artistName": "Judit Neddermann"
+        },
+        {
+            "artistId": 111498,
+            "distance": 1.3113291421210806,
+            "artistName": "Jett Rebel"
+        },
+        {
+            "artistId": 103255,
+            "distance": 1.3114985529915273,
+            "artistName": "Waiting for Smith"
+        },
+        {
+            "artistId": 13100,
+            "distance": 1.31192300357992,
+            "artistName": "Krezip"
+        },
+        {
+            "artistId": 56974,
+            "distance": 1.312003520817142,
+            "artistName": "Amy Wadge"
+        },
+        {
+            "artistId": 73766,
+            "distance": 1.312239918086401,
+            "artistName": "Leo García"
+        },
+        {
+            "artistId": 88064,
+            "distance": 1.312354311797338,
+            "artistName": "KeyWest"
+        },
+        {
+            "artistId": 51027,
+            "distance": 1.3125982001837724,
+            "artistName": "ZeGuerre"
+        },
+        {
+            "artistId": 48768,
+            "distance": 1.312708327743172,
+            "artistName": "Donny Benét"
+        },
+        {
+            "artistId": 50251,
+            "distance": 1.3127090633086005,
+            "artistName": "Ishan Mitra"
+        },
+        {
+            "artistId": 28148,
+            "distance": 1.3130668958486882,
+            "artistName": "Bovska"
+        },
+        {
+            "artistId": 41931,
+            "distance": 1.3130700835762357,
+            "artistName": "Night Beats"
+        },
+        {
+            "artistId": 103027,
+            "distance": 1.3135692273957578,
+            "artistName": "Alexander Cardinale"
+        },
+        {
+            "artistId": 49113,
+            "distance": 1.3136968801717803,
+            "artistName": "Betta Lemme"
+        },
+        {
+            "artistId": 29965,
+            "distance": 1.3141033307326588,
+            "artistName": "Futurebirds"
+        },
+        {
+            "artistId": 25874,
+            "distance": 1.3142386117200295,
+            "artistName": "Maisy Kay"
+        },
+        {
+            "artistId": 34679,
+            "distance": 1.3143929506343446,
+            "artistName": "Ryland James"
+        },
+        {
+            "artistId": 29287,
+            "distance": 1.3143936602450144,
+            "artistName": "Young & Sick"
+        },
+        {
+            "artistId": 30983,
+            "distance": 1.314520108634988,
+            "artistName": "Lortex"
+        },
+        {
+            "artistId": 57377,
+            "distance": 1.314793029438221,
+            "artistName": "Hop Along"
+        },
+        {
+            "artistId": 60785,
+            "distance": 1.3148762639832052,
+            "artistName": "The Sherlocks"
+        },
+        {
+            "artistId": 45492,
+            "distance": 1.3153535287188327,
+            "artistName": "Angie Rose"
+        },
+        {
+            "artistId": 33983,
+            "distance": 1.3154154645675895,
+            "artistName": "Nabihah Iqbal"
+        },
+        {
+            "artistId": 67026,
+            "distance": 1.3154743881348974,
+            "artistName": "As December Falls"
+        },
+        {
+            "artistId": 63267,
+            "distance": 1.3155166663112414,
+            "artistName": "Teddy Geiger"
+        },
+        {
+            "artistId": 23993,
+            "distance": 1.316497337533902,
+            "artistName": "Voyou"
+        },
+        {
+            "artistId": 76632,
+            "distance": 1.316857174730952,
+            "artistName": "Zusha"
+        },
+        {
+            "artistId": 39827,
+            "distance": 1.316898443391343,
+            "artistName": "Jaguar Jonze"
+        },
+        {
+            "artistId": 35434,
+            "distance": 1.3171536446906789,
+            "artistName": "Ellinoora"
+        },
+        {
+            "artistId": 15732,
+            "distance": 1.317651001831575,
+            "artistName": "NIGHTMARE"
+        },
+        {
+            "artistId": 31164,
+            "distance": 1.3176669695544496,
+            "artistName": "Niklas Strömstedt"
         },
         {
             "artistId": 105308,
-            "distance": 1.205519467810789,
+            "distance": 1.3177149713866545,
             "artistName": "Natalie Prass"
         },
         {
-            "artistId": 98564,
-            "distance": 1.20553327778855,
-            "artistName": "F-Pos"
+            "artistId": 31167,
+            "distance": 1.3178197739107471,
+            "artistName": "Jesy Nelson"
         },
         {
-            "artistId": 95554,
-            "distance": 1.2055579479100116,
-            "artistName": "Nana Lourdes"
+            "artistId": 25920,
+            "distance": 1.318478256545426,
+            "artistName": "Oklou"
         },
         {
-            "artistId": 60302,
-            "distance": 1.2055637907340433,
-            "artistName": "The Goa Express"
+            "artistId": 97186,
+            "distance": 1.3185301455870218,
+            "artistName": "Yorka"
         },
         {
-            "artistId": 81942,
-            "distance": 1.2055928560416604,
-            "artistName": "Kasino"
+            "artistId": 44881,
+            "distance": 1.3185382132931105,
+            "artistName": "Kelompok Penerbang Roket"
         },
         {
-            "artistId": 76556,
-            "distance": 1.205593862678002,
-            "artistName": "Charlie Hickey"
+            "artistId": 33387,
+            "distance": 1.318725941766909,
+            "artistName": "Arooj Aftab"
         },
         {
-            "artistId": 98327,
-            "distance": 1.2055987255635785,
-            "artistName": "Moss"
+            "artistId": 15494,
+            "distance": 1.319017245108971,
+            "artistName": "Arévalo"
         },
         {
-            "artistId": 112184,
-            "distance": 1.2056011577581225,
-            "artistName": "Lisasinson"
+            "artistId": 52044,
+            "distance": 1.3195701152814832,
+            "artistName": "Baio"
         },
         {
-            "artistId": 93449,
-            "distance": 1.2056277963607016,
-            "artistName": "Wild Pink"
+            "artistId": 36554,
+            "distance": 1.3195702032163985,
+            "artistName": "Jeangu MacRooy"
         },
         {
-            "artistId": 95353,
-            "distance": 1.2056477247153123,
-            "artistName": "Hemliga Klubben"
+            "artistId": 72499,
+            "distance": 1.3205138646244847,
+            "artistName": "Preoccupations"
         },
         {
-            "artistId": 93695,
-            "distance": 1.2056596749515396,
-            "artistName": "Post Nebbia"
+            "artistId": 71101,
+            "distance": 1.3205544951597807,
+            "artistName": "The Good, the Bad & the Queen"
         },
         {
-            "artistId": 102981,
-            "distance": 1.2057106093913887,
-            "artistName": "Elonkerjuu"
+            "artistId": 75479,
+            "distance": 1.320559954914413,
+            "artistName": "Kylie Frey"
         },
         {
-            "artistId": 88752,
-            "distance": 1.2058386469833955,
-            "artistName": "Buttering Trio"
+            "artistId": 48892,
+            "distance": 1.320579812324595,
+            "artistName": "Billy Crawford"
         },
         {
-            "artistId": 90981,
-            "distance": 1.2061469872388009,
-            "artistName": "Ines Rae"
+            "artistId": 24654,
+            "distance": 1.3205982154914175,
+            "artistName": "Robert DeLong"
         },
         {
-            "artistId": 105777,
-            "distance": 1.206458514632647,
-            "artistName": "Kim Viera"
+            "artistId": 46346,
+            "distance": 1.3206104264368173,
+            "artistName": "Marta Soto"
         },
         {
-            "artistId": 76865,
-            "distance": 1.2074020962869472,
-            "artistName": "Sarah Proctor"
+            "artistId": 52874,
+            "distance": 1.3207152239986537,
+            "artistName": "Mariette"
         },
         {
-            "artistId": 64024,
-            "distance": 1.2074099968854666,
-            "artistName": "Kamaleón"
+            "artistId": 51897,
+            "distance": 1.320776302431441,
+            "artistName": "Silvana Imam"
         },
         {
-            "artistId": 77567,
-            "distance": 1.2074204720748418,
-            "artistName": "Lion Sphere"
-        },
-        {
-            "artistId": 95402,
-            "distance": 1.2074324854232523,
-            "artistName": "ALA.NI"
-        },
-        {
-            "artistId": 66053,
-            "distance": 1.20744568639933,
-            "artistName": "August Eve"
-        },
-        {
-            "artistId": 100258,
-            "distance": 1.2074464136835756,
-            "artistName": "Iglu & Hartly"
-        },
-        {
-            "artistId": 96813,
-            "distance": 1.2074509451635933,
-            "artistName": "Platon Karataev"
-        },
-        {
-            "artistId": 97620,
-            "distance": 1.207452395325092,
-            "artistName": "Ata Kak"
-        },
-        {
-            "artistId": 113475,
-            "distance": 1.2074616574532584,
-            "artistName": "Vinyl Williams"
-        },
-        {
-            "artistId": 99107,
-            "distance": 1.2074673346638292,
-            "artistName": "Blaue Blume"
+            "artistId": 9254,
+            "distance": 1.321930606231784,
+            "artistName": "Ryn Weaver"
         },
         {
             "artistId": 99849,
-            "distance": 1.207480886622866,
+            "distance": 1.3224461412855777,
             "artistName": "TRAMPOLENE"
         },
         {
-            "artistId": 106814,
-            "distance": 1.2074978289091989,
-            "artistName": "Rilan & The Bombardiers"
-        },
-        {
-            "artistId": 84562,
-            "distance": 1.207504428906406,
-            "artistName": "Working Men's Club"
-        },
-        {
             "artistId": 100427,
-            "distance": 1.2075109800824702,
+            "distance": 1.322450378651867,
             "artistName": "Wildwood Kin"
         },
         {
-            "artistId": 106732,
-            "distance": 1.207518296823658,
-            "artistName": "Melis Güven"
+            "artistId": 113475,
+            "distance": 1.3224534048871024,
+            "artistName": "Vinyl Williams"
         },
         {
-            "artistId": 96052,
-            "distance": 1.2075218773712422,
-            "artistName": "Walking On Rivers"
+            "artistId": 84562,
+            "distance": 1.3224664710931666,
+            "artistName": "Working Men's Club"
         },
         {
-            "artistId": 92787,
-            "distance": 1.2075299031774582,
-            "artistName": "PREACHERVAN"
+            "artistId": 21531,
+            "distance": 1.3224985728162215,
+            "artistName": "Kelsey Lu"
         },
         {
-            "artistId": 68678,
-            "distance": 1.2075468776313796,
-            "artistName": "Anjimile"
+            "artistId": 89887,
+            "distance": 1.32261329128147,
+            "artistName": "Iceage"
         },
         {
-            "artistId": 97582,
-            "distance": 1.2075527680679274,
-            "artistName": "Robert Robert"
+            "artistId": 108444,
+            "distance": 1.3226218199577937,
+            "artistName": "Bill Ryder-Jones"
+        },
+        {
+            "artistId": 50960,
+            "distance": 1.322630669203299,
+            "artistName": "Ratboys"
+        },
+        {
+            "artistId": 39836,
+            "distance": 1.3229301511106146,
+            "artistName": "Seckou Keita"
+        },
+        {
+            "artistId": 65511,
+            "distance": 1.3230178381284858,
+            "artistName": "Philippe Cohen Solal"
+        },
+        {
+            "artistId": 81959,
+            "distance": 1.3230626474154956,
+            "artistName": "Jarod"
+        },
+        {
+            "artistId": 74002,
+            "distance": 1.3230708944907443,
+            "artistName": "Cady Groves"
+        },
+        {
+            "artistId": 77950,
+            "distance": 1.323212419975667,
+            "artistName": "Bora Uzer"
+        },
+        {
+            "artistId": 19135,
+            "distance": 1.323283684845797,
+            "artistName": "Prabh Deep"
+        },
+        {
+            "artistId": 18987,
+            "distance": 1.3241293679701804,
+            "artistName": "Oberhofer"
+        },
+        {
+            "artistId": 12450,
+            "distance": 1.324212290158459,
+            "artistName": "Chrome Sparks"
+        },
+        {
+            "artistId": 13830,
+            "distance": 1.3242928188645426,
+            "artistName": "GLK"
+        },
+        {
+            "artistId": 105344,
+            "distance": 1.3244028451620269,
+            "artistName": "24K"
         }
     ]
 }
