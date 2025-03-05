@@ -1,0 +1,650 @@
+{
+    "deezer": {
+        "url": "https://deezer.com/artist/123475882",
+        "asOf": "2025-02-05T00:00:00+00:00",
+        "fans": 6,
+        "default": true,
+        "identifier": "123475882",
+        "platformName": "Deezer"
+    },
+    "tiktok": {
+        "url": "https://tiktok.com/@brianamoir",
+        "default": true,
+        "identifier": "brianamoir",
+        "platformName": "TikTok"
+    },
+    "general": {
+        "gender": "",
+        "genres": [
+            "pop"
+        ],
+        "subGenres": [
+            "pop",
+            "indie pop"
+        ],
+        "platformName": "general"
+    },
+    "spotify": {
+        "url": "https://open.spotify.com/artist/6G15LUcaCKIJmY7o3IOjTZ",
+        "ages": [
+            {
+                "code": "13-17",
+                "weight": 0.042547
+            },
+            {
+                "code": "18-24",
+                "weight": 0.246539
+            },
+            {
+                "code": "25-34",
+                "weight": 0.389243
+            },
+            {
+                "code": "35-44",
+                "weight": 0.202891
+            },
+            {
+                "code": "45-64",
+                "weight": 0.117664
+            },
+            {
+                "code": "65-",
+                "weight": 0.001116
+            }
+        ],
+        "asOf": "2025-02-14T00:00:00+00:00",
+        "stats": {
+            "postCount": 47,
+            "viewCount": 0,
+            "followerCount": 18989,
+            "engagementRate": 0.001685,
+            "engagementCount": 32,
+            "averageReelsPlays": 3707,
+            "averageLikesPerPost": 32,
+            "averageViewsPerPost": 0,
+            "averageCommentsPerPost": 6
+        },
+        "cities": [],
+        "default": true,
+        "genders": [
+            {
+                "code": "MALE",
+                "weight": 0.68916
+            },
+            {
+                "code": "FEMALE",
+                "weight": 0.31084
+            }
+        ],
+        "countries": [],
+        "languages": [
+            {
+                "code": "en",
+                "weight": 0.596185
+            },
+            {
+                "code": "ru",
+                "weight": 0.056903
+            },
+            {
+                "code": "es",
+                "weight": 0.04785
+            },
+            {
+                "code": "pl",
+                "weight": 0.040414
+            },
+            {
+                "code": "de",
+                "weight": 0.036211
+            },
+            {
+                "code": "fr",
+                "weight": 0.032008
+            },
+            {
+                "code": "it",
+                "weight": 0.025218
+            },
+            {
+                "code": "pt",
+                "weight": 0.023925
+            },
+            {
+                "code": "fa",
+                "weight": 0.017135
+            },
+            {
+                "code": "cs",
+                "weight": 0.014872
+            },
+            {
+                "code": "hu",
+                "weight": 0.013579
+            },
+            {
+                "code": "ro",
+                "weight": 0.011962
+            },
+            {
+                "code": "nl",
+                "weight": 0.010023
+            },
+            {
+                "code": "ar",
+                "weight": 0.008406
+            },
+            {
+                "code": "bn",
+                "weight": 0.006143
+            },
+            {
+                "code": "ko",
+                "weight": 0.00582
+            },
+            {
+                "code": "sv",
+                "weight": 0.004526
+            },
+            {
+                "code": "el",
+                "weight": 0.004203
+            },
+            {
+                "code": "id",
+                "weight": 0.00388
+            },
+            {
+                "code": "sk",
+                "weight": 0.003233
+            },
+            {
+                "code": "bg",
+                "weight": 0.00291
+            },
+            {
+                "code": "tr",
+                "weight": 0.00291
+            },
+            {
+                "code": "da",
+                "weight": 0.002586
+            },
+            {
+                "code": "uk",
+                "weight": 0.002586
+            },
+            {
+                "code": "ja",
+                "weight": 0.002263
+            },
+            {
+                "code": "ur",
+                "weight": 0.002263
+            },
+            {
+                "code": "lt",
+                "weight": 0.002263
+            },
+            {
+                "code": "fi",
+                "weight": 0.001617
+            },
+            {
+                "code": "zh",
+                "weight": 0.001617
+            },
+            {
+                "code": "sr",
+                "weight": 0.001293
+            },
+            {
+                "code": "th",
+                "weight": 0.001293
+            },
+            {
+                "code": "lv",
+                "weight": 0.001293
+            },
+            {
+                "code": "et",
+                "weight": 0.001293
+            },
+            {
+                "code": "no",
+                "weight": 0.001293
+            },
+            {
+                "code": "other",
+                "weight": 0.010023
+            }
+        ],
+        "identifier": "6G15LUcaCKIJmY7o3IOjTZ",
+        "platformName": "Spotify",
+        "featuredTrack": {
+            "trackUrl": null,
+            "trackName": "One"
+        },
+        "followerCount": 834,
+        "playlistReach": 0.000016826970411383626,
+        "monthlyListeners": 12280
+    },
+    "youtube": {
+        "url": "https://www.youtube.com/channel/UCswPoJF_NZN6J4UlkDi9LzQ",
+        "default": true,
+        "identifier": "UCswPoJF_NZN6J4UlkDi9LzQ",
+        "platformName": "YouTube"
+    },
+    "facebook": {
+        "url": "https://facebook.com/brianamoirmusic",
+        "asOf": "2025-02-11T00:00:00+00:00",
+        "default": true,
+        "followers": 4936,
+        "identifier": "brianamoirmusic",
+        "platformName": "Facebook"
+    },
+    "instagram": {
+        "url": "https://instagram.com/brianamoir",
+        "likes": {
+            "ages": [],
+            "cities": [],
+            "genders": [],
+            "countries": [],
+            "languages": [],
+            "ethnicities": [],
+            "gendersPerAge": []
+        },
+        "stats": {
+            "postCount": 47,
+            "viewCount": 0,
+            "followerCount": 18989,
+            "engagementRate": 0.001685,
+            "engagementCount": 32,
+            "averageReelsPlays": 3707,
+            "averageLikesPerPost": 32,
+            "averageViewsPerPost": 0,
+            "averageCommentsPerPost": 6
+        },
+        "default": true,
+        "follows": {
+            "ages": [
+                {
+                    "code": "13-17",
+                    "weight": 0.042547
+                },
+                {
+                    "code": "18-24",
+                    "weight": 0.246539
+                },
+                {
+                    "code": "25-34",
+                    "weight": 0.389243
+                },
+                {
+                    "code": "35-44",
+                    "weight": 0.202891
+                },
+                {
+                    "code": "45-64",
+                    "weight": 0.117664
+                },
+                {
+                    "code": "65-",
+                    "weight": 0.001116
+                }
+            ],
+            "cities": [
+                {
+                    "region": "Georgia",
+                    "weight": 0.021762,
+                    "cityName": "Atlanta",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "California",
+                    "weight": 0.019171,
+                    "cityName": "Los Angeles",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "New York",
+                    "weight": 0.014508,
+                    "cityName": "New York City",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "Pennsylvania",
+                    "weight": 0.012435,
+                    "cityName": "Philadelphia",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "",
+                    "weight": 0.010881,
+                    "cityName": "Greater London",
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                {
+                    "region": "Tennessee",
+                    "weight": 0.009845,
+                    "cityName": "Nashville",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "North Carolina",
+                    "weight": 0.005181,
+                    "cityName": "Charlotte",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                }
+            ],
+            "genders": [
+                {
+                    "code": "MALE",
+                    "weight": 0.68916
+                },
+                {
+                    "code": "FEMALE",
+                    "weight": 0.31084
+                }
+            ],
+            "countries": [
+                {
+                    "weight": 0.422798,
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "weight": 0.053886,
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                {
+                    "weight": 0.033161,
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                {
+                    "weight": 0.033161,
+                    "countryCode": "PL",
+                    "countryName": "Poland"
+                },
+                {
+                    "weight": 0.028497,
+                    "countryCode": "IT",
+                    "countryName": "Italy"
+                },
+                {
+                    "weight": 0.02487,
+                    "countryCode": "RO",
+                    "countryName": "Romania"
+                },
+                {
+                    "weight": 0.022798,
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                {
+                    "weight": 0.021244,
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                {
+                    "weight": 0.020207,
+                    "countryCode": "RU",
+                    "countryName": "Russia"
+                },
+                {
+                    "weight": 0.017617,
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                {
+                    "weight": 0.017098,
+                    "countryCode": "BR",
+                    "countryName": "Brazil"
+                },
+                {
+                    "weight": 0.015544,
+                    "countryCode": "HU",
+                    "countryName": "Hungary"
+                },
+                {
+                    "weight": 0.015026,
+                    "countryCode": "BD",
+                    "countryName": "Bangladesh"
+                },
+                {
+                    "weight": 0.015026,
+                    "countryCode": "CZ",
+                    "countryName": "Czechia"
+                },
+                {
+                    "weight": 0.013472,
+                    "countryCode": "IN",
+                    "countryName": "India"
+                },
+                {
+                    "weight": 0.011917,
+                    "countryCode": "AU",
+                    "countryName": "Australia"
+                },
+                {
+                    "weight": 0.011399,
+                    "countryCode": "PT",
+                    "countryName": "Portugal"
+                },
+                {
+                    "weight": 0.010881,
+                    "countryCode": "GR",
+                    "countryName": "Greece"
+                },
+                {
+                    "weight": 0.010363,
+                    "countryCode": "MX",
+                    "countryName": "Mexico"
+                }
+            ],
+            "languages": [
+                {
+                    "code": "en",
+                    "weight": 0.596185
+                },
+                {
+                    "code": "ru",
+                    "weight": 0.056903
+                },
+                {
+                    "code": "es",
+                    "weight": 0.04785
+                },
+                {
+                    "code": "pl",
+                    "weight": 0.040414
+                },
+                {
+                    "code": "de",
+                    "weight": 0.036211
+                },
+                {
+                    "code": "fr",
+                    "weight": 0.032008
+                },
+                {
+                    "code": "it",
+                    "weight": 0.025218
+                },
+                {
+                    "code": "pt",
+                    "weight": 0.023925
+                },
+                {
+                    "code": "fa",
+                    "weight": 0.017135
+                },
+                {
+                    "code": "cs",
+                    "weight": 0.014872
+                },
+                {
+                    "code": "hu",
+                    "weight": 0.013579
+                },
+                {
+                    "code": "ro",
+                    "weight": 0.011962
+                },
+                {
+                    "code": "nl",
+                    "weight": 0.010023
+                },
+                {
+                    "code": "ar",
+                    "weight": 0.008406
+                },
+                {
+                    "code": "bn",
+                    "weight": 0.006143
+                },
+                {
+                    "code": "ko",
+                    "weight": 0.00582
+                },
+                {
+                    "code": "sv",
+                    "weight": 0.004526
+                },
+                {
+                    "code": "el",
+                    "weight": 0.004203
+                },
+                {
+                    "code": "id",
+                    "weight": 0.00388
+                },
+                {
+                    "code": "sk",
+                    "weight": 0.003233
+                },
+                {
+                    "code": "bg",
+                    "weight": 0.00291
+                },
+                {
+                    "code": "tr",
+                    "weight": 0.00291
+                },
+                {
+                    "code": "da",
+                    "weight": 0.002586
+                },
+                {
+                    "code": "uk",
+                    "weight": 0.002586
+                },
+                {
+                    "code": "ja",
+                    "weight": 0.002263
+                },
+                {
+                    "code": "ur",
+                    "weight": 0.002263
+                },
+                {
+                    "code": "lt",
+                    "weight": 0.002263
+                },
+                {
+                    "code": "fi",
+                    "weight": 0.001617
+                },
+                {
+                    "code": "zh",
+                    "weight": 0.001617
+                },
+                {
+                    "code": "sr",
+                    "weight": 0.001293
+                },
+                {
+                    "code": "th",
+                    "weight": 0.001293
+                },
+                {
+                    "code": "lv",
+                    "weight": 0.001293
+                },
+                {
+                    "code": "et",
+                    "weight": 0.001293
+                },
+                {
+                    "code": "no",
+                    "weight": 0.001293
+                },
+                {
+                    "code": "other",
+                    "weight": 0.010023
+                }
+            ],
+            "ethnicities": [
+                {
+                    "code": "White / Caucasian",
+                    "weight": 0.745506
+                },
+                {
+                    "code": "African American",
+                    "weight": 0.045877
+                },
+                {
+                    "code": "Hispanic",
+                    "weight": 0.070984
+                },
+                {
+                    "code": "Asian",
+                    "weight": 0.137632
+                }
+            ],
+            "gendersPerAge": [
+                {
+                    "code": "13-17",
+                    "maleWeight": 0.025548,
+                    "femaleWeight": 0.016999
+                },
+                {
+                    "code": "18-24",
+                    "maleWeight": 0.153287,
+                    "femaleWeight": 0.093252
+                },
+                {
+                    "code": "25-34",
+                    "maleWeight": 0.247908,
+                    "femaleWeight": 0.141335
+                },
+                {
+                    "code": "35-44",
+                    "maleWeight": 0.163064,
+                    "femaleWeight": 0.039826
+                },
+                {
+                    "code": "45-64",
+                    "maleWeight": 0.098722,
+                    "femaleWeight": 0.018942
+                },
+                {
+                    "code": "65-",
+                    "maleWeight": 0.000631,
+                    "femaleWeight": 0.000486
+                }
+            ]
+        },
+        "identifier": "brianamoir",
+        "platformName": "Instagram"
+    }
+}

@@ -67,6 +67,7 @@ def search_random():
         "Best books of all time",
         "Ship Your Skis",
         "Distance from San Francisco to Tahoe",
+        "Golden Retriever",
     ]
 
     # Randomly selec search terms from the list
