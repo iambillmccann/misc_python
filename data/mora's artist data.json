@@ -1,0 +1,1087 @@
+{
+    "deezer": {
+        "url": "https://deezer.com/artist/3922661",
+        "asOf": "2025-03-09T00:00:00+00:00",
+        "fans": 190163,
+        "default": true,
+        "identifier": "3922661",
+        "platformName": "Deezer"
+    },
+    "tiktok": {
+        "url": "https://tiktok.com/@mora",
+        "likes": {
+            "ages": [],
+            "cities": [],
+            "genders": [],
+            "countries": [],
+            "languages": [],
+            "ethnicities": [],
+            "gendersPerAge": []
+        },
+        "stats": {
+            "postCount": 3,
+            "viewCount": 1750000,
+            "followerCount": 579200,
+            "engagementRate": 0.357131,
+            "engagementCount": 206850,
+            "averageReelsPlays": 0,
+            "averageLikesPerPost": 206850,
+            "averageViewsPerPost": 1750000,
+            "averageCommentsPerPost": 1453
+        },
+        "default": true,
+        "follows": {
+            "ages": [
+                {
+                    "code": "13-17",
+                    "weight": 0.132582
+                },
+                {
+                    "code": "18-24",
+                    "weight": 0.6854
+                },
+                {
+                    "code": "25-34",
+                    "weight": 0.163164
+                },
+                {
+                    "code": "35-44",
+                    "weight": 0.015938
+                },
+                {
+                    "code": "45-64",
+                    "weight": 0.002916
+                },
+                {
+                    "code": "65-",
+                    "weight": 0
+                }
+            ],
+            "cities": [],
+            "genders": [
+                {
+                    "code": "MALE",
+                    "weight": 0.542964
+                },
+                {
+                    "code": "FEMALE",
+                    "weight": 0.457036
+                }
+            ],
+            "countries": [
+                {
+                    "weight": 0.196707,
+                    "countryCode": "VE",
+                    "countryName": "Venezuela"
+                },
+                {
+                    "weight": 0.160629,
+                    "countryCode": "MX",
+                    "countryName": "Mexico"
+                },
+                {
+                    "weight": 0.160329,
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                {
+                    "weight": 0.106287,
+                    "countryCode": "CO",
+                    "countryName": "Colombia"
+                },
+                {
+                    "weight": 0.075599,
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "weight": 0.052545,
+                    "countryCode": "EC",
+                    "countryName": "Ecuador"
+                },
+                {
+                    "weight": 0.038024,
+                    "countryCode": "CL",
+                    "countryName": "Chile"
+                },
+                {
+                    "weight": 0.034731,
+                    "countryCode": "AR",
+                    "countryName": "Argentina"
+                },
+                {
+                    "weight": 0.033383,
+                    "countryCode": "PE",
+                    "countryName": "Peru"
+                },
+                {
+                    "weight": 0.015719,
+                    "countryCode": "CR",
+                    "countryName": "Costa Rica"
+                },
+                {
+                    "weight": 0.014521,
+                    "countryCode": "DO",
+                    "countryName": "Dominican Republic"
+                },
+                {
+                    "weight": 0.014371,
+                    "countryCode": "GT",
+                    "countryName": "Guatemala"
+                },
+                {
+                    "weight": 0.013623,
+                    "countryCode": "BO",
+                    "countryName": "Bolivia"
+                },
+                {
+                    "weight": 0.013024,
+                    "countryCode": "PY",
+                    "countryName": "Paraguay"
+                },
+                {
+                    "weight": 0.011527,
+                    "countryCode": "HN",
+                    "countryName": "Honduras"
+                },
+                {
+                    "weight": 0.011377,
+                    "countryCode": "NI",
+                    "countryName": "Nicaragua"
+                },
+                {
+                    "weight": 0.010928,
+                    "countryCode": "SV",
+                    "countryName": "El Salvador"
+                },
+                {
+                    "weight": 0.010928,
+                    "countryCode": "PA",
+                    "countryName": "Panama"
+                }
+            ],
+            "languages": [
+                {
+                    "code": "es",
+                    "weight": 0.915043
+                },
+                {
+                    "code": "en",
+                    "weight": 0.078298
+                },
+                {
+                    "code": "it",
+                    "weight": 0.001603
+                },
+                {
+                    "code": "pt",
+                    "weight": 0.001356
+                },
+                {
+                    "code": "fr",
+                    "weight": 0.000986
+                },
+                {
+                    "code": "ca",
+                    "weight": 0.000863
+                },
+                {
+                    "code": "id",
+                    "weight": 0.000493
+                },
+                {
+                    "code": "de",
+                    "weight": 0.000247
+                },
+                {
+                    "code": "pl",
+                    "weight": 0.000247
+                },
+                {
+                    "code": "hr",
+                    "weight": 0.000123
+                },
+                {
+                    "code": "ru",
+                    "weight": 0.000123
+                },
+                {
+                    "code": "ro",
+                    "weight": 0.000123
+                },
+                {
+                    "code": "sv",
+                    "weight": 0.000123
+                },
+                {
+                    "code": "my",
+                    "weight": 0.000123
+                },
+                {
+                    "code": "ar",
+                    "weight": 0.000123
+                },
+                {
+                    "code": "th",
+                    "weight": 0.000123
+                }
+            ],
+            "ethnicities": [],
+            "gendersPerAge": [
+                {
+                    "code": "13-17",
+                    "maleWeight": 0.061833,
+                    "femaleWeight": 0.070749
+                },
+                {
+                    "code": "18-24",
+                    "maleWeight": 0.363646,
+                    "femaleWeight": 0.321754
+                },
+                {
+                    "code": "25-34",
+                    "maleWeight": 0.103397,
+                    "femaleWeight": 0.059767
+                },
+                {
+                    "code": "35-44",
+                    "maleWeight": 0.012187,
+                    "femaleWeight": 0.003752
+                },
+                {
+                    "code": "45-64",
+                    "maleWeight": 0.001901,
+                    "femaleWeight": 0.001014
+                },
+                {
+                    "code": "65-",
+                    "maleWeight": 0,
+                    "femaleWeight": 0
+                }
+            ]
+        },
+        "identifier": "mora",
+        "platformName": "TikTok"
+    },
+    "general": {
+        "gender": "male",
+        "genres": [
+            "hip-hop & rap",
+            "latin"
+        ],
+        "subGenres": [
+            "trap latino",
+            "latin",
+            "reggaeton flow",
+            "reggaeton"
+        ],
+        "countryCode": "PR",
+        "platformName": "general",
+        "processingStatus": "complete"
+    },
+    "spotify": {
+        "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S",
+        "ages": [
+            {
+                "code": "13-17",
+                "weight": 0.062811
+            },
+            {
+                "code": "18-24",
+                "weight": 0.47612
+            },
+            {
+                "code": "25-34",
+                "weight": 0.401406
+            },
+            {
+                "code": "35-44",
+                "weight": 0.053646
+            },
+            {
+                "code": "45-64",
+                "weight": 0.006018
+            },
+            {
+                "code": "65-",
+                "weight": 0
+            }
+        ],
+        "asOf": "2025-03-09T00:00:00+00:00",
+        "stats": {
+            "postCount": 1,
+            "viewCount": 0,
+            "followerCount": 3751158,
+            "engagementRate": 0.473333,
+            "engagementCount": 1775546,
+            "averageReelsPlays": 3418773,
+            "averageLikesPerPost": 1775546,
+            "averageViewsPerPost": 0,
+            "averageCommentsPerPost": 28301
+        },
+        "cities": [],
+        "default": true,
+        "genders": [
+            {
+                "code": "FEMALE",
+                "weight": 0.322789
+            },
+            {
+                "code": "MALE",
+                "weight": 0.677211
+            }
+        ],
+        "countries": [],
+        "languages": [
+            {
+                "code": "es",
+                "weight": 0.853754
+            },
+            {
+                "code": "en",
+                "weight": 0.110659
+            },
+            {
+                "code": "fr",
+                "weight": 0.00903
+            },
+            {
+                "code": "pt",
+                "weight": 0.007082
+            },
+            {
+                "code": "it",
+                "weight": 0.003718
+            },
+            {
+                "code": "id",
+                "weight": 0.001593
+            },
+            {
+                "code": "ru",
+                "weight": 0.001416
+            },
+            {
+                "code": "de",
+                "weight": 0.001416
+            },
+            {
+                "code": "ar",
+                "weight": 0.001416
+            },
+            {
+                "code": "gl",
+                "weight": 0.001062
+            },
+            {
+                "code": "tr",
+                "weight": 0.000885
+            },
+            {
+                "code": "nl",
+                "weight": 0.000708
+            },
+            {
+                "code": "fa",
+                "weight": 0.000708
+            },
+            {
+                "code": "fi",
+                "weight": 0.000708
+            },
+            {
+                "code": "ja",
+                "weight": 0.000708
+            },
+            {
+                "code": "ca",
+                "weight": 0.000708
+            },
+            {
+                "code": "pl",
+                "weight": 0.000531
+            },
+            {
+                "code": "sv",
+                "weight": 0.000531
+            },
+            {
+                "code": "ko",
+                "weight": 0.000531
+            },
+            {
+                "code": "ie",
+                "weight": 0.000354
+            },
+            {
+                "code": "other",
+                "weight": 0.002479
+            }
+        ],
+        "identifier": "0Q8NcsJwoCbZOHHW63su5S",
+        "platformName": "Spotify",
+        "featuredTrack": null,
+        "followerCount": 6950167,
+        "playlistReach": 0.03120986408448446,
+        "monthlyListeners": 16746807
+    },
+    "twitter": {
+        "url": "https://twitter.com/_morapr",
+        "asOf": "2025-03-09T00:00:00+00:00",
+        "default": true,
+        "followers": 950564,
+        "identifier": "_morapr",
+        "platformName": "Twitter"
+    },
+    "youtube": {
+        "url": "https://www.youtube.com/channel/UCv0Gdfwyin6w3vbpZnEpmrQ",
+        "likes": {
+            "ages": [],
+            "cities": [],
+            "genders": [],
+            "countries": [],
+            "languages": [],
+            "ethnicities": [],
+            "gendersPerAge": []
+        },
+        "stats": {
+            "postCount": 116,
+            "viewCount": 326498,
+            "followerCount": 2900000,
+            "engagementRate": 0.001702,
+            "engagementCount": 4935,
+            "averageReelsPlays": 0,
+            "averageLikesPerPost": 4935,
+            "averageViewsPerPost": 326498,
+            "averageCommentsPerPost": 72
+        },
+        "default": true,
+        "follows": {
+            "ages": [
+                {
+                    "code": "13-17",
+                    "weight": 0.094659
+                },
+                {
+                    "code": "18-24",
+                    "weight": 0.655183
+                },
+                {
+                    "code": "25-34",
+                    "weight": 0.213836
+                },
+                {
+                    "code": "35-44",
+                    "weight": 0.028338
+                },
+                {
+                    "code": "45-64",
+                    "weight": 0.007984
+                },
+                {
+                    "code": "65-",
+                    "weight": 0
+                }
+            ],
+            "cities": [],
+            "genders": [
+                {
+                    "code": "FEMALE",
+                    "weight": 0.278912
+                },
+                {
+                    "code": "MALE",
+                    "weight": 0.721088
+                }
+            ],
+            "countries": [
+                {
+                    "weight": 0.172619,
+                    "countryCode": "CO",
+                    "countryName": "Colombia"
+                },
+                {
+                    "weight": 0.141369,
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                {
+                    "weight": 0.126488,
+                    "countryCode": "VE",
+                    "countryName": "Venezuela"
+                },
+                {
+                    "weight": 0.089286,
+                    "countryCode": "CL",
+                    "countryName": "Chile"
+                },
+                {
+                    "weight": 0.074405,
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "weight": 0.06994,
+                    "countryCode": "PE",
+                    "countryName": "Peru"
+                },
+                {
+                    "weight": 0.059524,
+                    "countryCode": "EC",
+                    "countryName": "Ecuador"
+                },
+                {
+                    "weight": 0.058036,
+                    "countryCode": "MX",
+                    "countryName": "Mexico"
+                },
+                {
+                    "weight": 0.053571,
+                    "countryCode": "DO",
+                    "countryName": "Dominican Republic"
+                },
+                {
+                    "weight": 0.049107,
+                    "countryCode": "AR",
+                    "countryName": "Argentina"
+                },
+                {
+                    "weight": 0.020833,
+                    "countryCode": "PA",
+                    "countryName": "Panama"
+                },
+                {
+                    "weight": 0.011905,
+                    "countryCode": "UY",
+                    "countryName": "Uruguay"
+                },
+                {
+                    "weight": 0.010417,
+                    "countryCode": "SV",
+                    "countryName": "El Salvador"
+                }
+            ],
+            "languages": [
+                {
+                    "code": "es",
+                    "weight": 0.932586
+                },
+                {
+                    "code": "en",
+                    "weight": 0.048136
+                },
+                {
+                    "code": "pt",
+                    "weight": 0.005141
+                },
+                {
+                    "code": "it",
+                    "weight": 0.002921
+                },
+                {
+                    "code": "fr",
+                    "weight": 0.001986
+                },
+                {
+                    "code": "de",
+                    "weight": 0.001168
+                },
+                {
+                    "code": "ar",
+                    "weight": 0.000818
+                },
+                {
+                    "code": "ja",
+                    "weight": 0.000818
+                },
+                {
+                    "code": "bg",
+                    "weight": 0.000701
+                },
+                {
+                    "code": "nl",
+                    "weight": 0.000701
+                },
+                {
+                    "code": "ru",
+                    "weight": 0.000584
+                },
+                {
+                    "code": "zh",
+                    "weight": 0.000584
+                },
+                {
+                    "code": "gl",
+                    "weight": 0.000467
+                },
+                {
+                    "code": "id",
+                    "weight": 0.000351
+                },
+                {
+                    "code": "ca",
+                    "weight": 0.000351
+                },
+                {
+                    "code": "sv",
+                    "weight": 0.000351
+                },
+                {
+                    "code": "ie",
+                    "weight": 0.000234
+                },
+                {
+                    "code": "sr",
+                    "weight": 0.000234
+                },
+                {
+                    "code": "el",
+                    "weight": 0.000234
+                },
+                {
+                    "code": "cs",
+                    "weight": 0.000234
+                },
+                {
+                    "code": "other",
+                    "weight": 0.001402
+                }
+            ],
+            "ethnicities": [],
+            "gendersPerAge": [
+                {
+                    "code": "13-17",
+                    "maleWeight": 0.058373,
+                    "femaleWeight": 0.036286
+                },
+                {
+                    "code": "18-24",
+                    "maleWeight": 0.472773,
+                    "femaleWeight": 0.182411
+                },
+                {
+                    "code": "25-34",
+                    "maleWeight": 0.165389,
+                    "femaleWeight": 0.048447
+                },
+                {
+                    "code": "35-44",
+                    "maleWeight": 0.018531,
+                    "femaleWeight": 0.009807
+                },
+                {
+                    "code": "45-64",
+                    "maleWeight": 0.006023,
+                    "femaleWeight": 0.001961
+                },
+                {
+                    "code": "65-",
+                    "maleWeight": 0,
+                    "femaleWeight": 0
+                }
+            ]
+        },
+        "identifier": "UCv0Gdfwyin6w3vbpZnEpmrQ",
+        "platformName": "YouTube"
+    },
+    "facebook": {
+        "url": "https://facebook.com/Mora-Oficial-101534927863184",
+        "asOf": "2025-03-07T00:00:00+00:00",
+        "default": true,
+        "followers": 19069,
+        "identifier": "Mora-Oficial-101534927863184",
+        "platformName": "Facebook"
+    },
+    "instagram": {
+        "url": "https://instagram.com/mora",
+        "likes": {
+            "ages": [],
+            "cities": [],
+            "genders": [],
+            "countries": [],
+            "languages": [],
+            "ethnicities": [],
+            "gendersPerAge": []
+        },
+        "stats": {
+            "postCount": 1,
+            "viewCount": 0,
+            "followerCount": 3751158,
+            "engagementRate": 0.473333,
+            "engagementCount": 1775546,
+            "averageReelsPlays": 3418773,
+            "averageLikesPerPost": 1775546,
+            "averageViewsPerPost": 0,
+            "averageCommentsPerPost": 28301
+        },
+        "default": true,
+        "follows": {
+            "ages": [
+                {
+                    "code": "13-17",
+                    "weight": 0.062811
+                },
+                {
+                    "code": "18-24",
+                    "weight": 0.47612
+                },
+                {
+                    "code": "25-34",
+                    "weight": 0.401406
+                },
+                {
+                    "code": "35-44",
+                    "weight": 0.053646
+                },
+                {
+                    "code": "45-64",
+                    "weight": 0.006018
+                },
+                {
+                    "code": "65-",
+                    "weight": 0
+                }
+            ],
+            "cities": [
+                {
+                    "region": "",
+                    "weight": 0.073668,
+                    "cityName": "Santiago",
+                    "countryCode": "CL",
+                    "countryName": "Chile"
+                },
+                {
+                    "region": "",
+                    "weight": 0.027541,
+                    "cityName": "Mexico City",
+                    "countryCode": "MX",
+                    "countryName": "Mexico"
+                },
+                {
+                    "region": "Puerto Rico",
+                    "weight": 0.026422,
+                    "cityName": "San Juan",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "",
+                    "weight": 0.01545,
+                    "cityName": "Lima",
+                    "countryCode": "PE",
+                    "countryName": "Peru"
+                },
+                {
+                    "region": "",
+                    "weight": 0.015002,
+                    "cityName": "Medellín",
+                    "countryCode": "CO",
+                    "countryName": "Colombia"
+                },
+                {
+                    "region": "New York",
+                    "weight": 0.014778,
+                    "cityName": "New York City",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "",
+                    "weight": 0.014107,
+                    "cityName": "Buenos Aires",
+                    "countryCode": "AR",
+                    "countryName": "Argentina"
+                },
+                {
+                    "region": "Florida",
+                    "weight": 0.012539,
+                    "cityName": "Miami",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "",
+                    "weight": 0.012091,
+                    "cityName": "Bogotá",
+                    "countryCode": "CO",
+                    "countryName": "Colombia"
+                },
+                {
+                    "region": "Puerto Rico",
+                    "weight": 0.009404,
+                    "cityName": "Barrio Pueblo",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "",
+                    "weight": 0.008285,
+                    "cityName": "Caracas",
+                    "countryCode": "VE",
+                    "countryName": "Venezuela"
+                },
+                {
+                    "region": "",
+                    "weight": 0.007837,
+                    "cityName": "Guayaquil",
+                    "countryCode": "EC",
+                    "countryName": "Ecuador"
+                },
+                {
+                    "region": "",
+                    "weight": 0.007837,
+                    "cityName": "Santo Domingo",
+                    "countryCode": "DO",
+                    "countryName": "Dominican Republic"
+                },
+                {
+                    "region": "",
+                    "weight": 0.007389,
+                    "cityName": "Valencia",
+                    "countryCode": "VE",
+                    "countryName": "Venezuela"
+                },
+                {
+                    "region": "California",
+                    "weight": 0.007165,
+                    "cityName": "Los Angeles",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "region": "",
+                    "weight": 0.006494,
+                    "cityName": "Monterrey",
+                    "countryCode": "MX",
+                    "countryName": "Mexico"
+                },
+                {
+                    "region": "",
+                    "weight": 0.006046,
+                    "cityName": "Panama City",
+                    "countryCode": "PA",
+                    "countryName": "Panama"
+                },
+                {
+                    "region": "",
+                    "weight": 0.005598,
+                    "cityName": "Cali",
+                    "countryCode": "CO",
+                    "countryName": "Colombia"
+                },
+                {
+                    "region": "",
+                    "weight": 0.00515,
+                    "cityName": "Viña del Mar",
+                    "countryCode": "CL",
+                    "countryName": "Chile"
+                }
+            ],
+            "genders": [
+                {
+                    "code": "FEMALE",
+                    "weight": 0.322789
+                },
+                {
+                    "code": "MALE",
+                    "weight": 0.677211
+                }
+            ],
+            "countries": [
+                {
+                    "weight": 0.236005,
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
+                    "weight": 0.189207,
+                    "countryCode": "CL",
+                    "countryName": "Chile"
+                },
+                {
+                    "weight": 0.124048,
+                    "countryCode": "MX",
+                    "countryName": "Mexico"
+                },
+                {
+                    "weight": 0.087774,
+                    "countryCode": "CO",
+                    "countryName": "Colombia"
+                },
+                {
+                    "weight": 0.066726,
+                    "countryCode": "VE",
+                    "countryName": "Venezuela"
+                },
+                {
+                    "weight": 0.0515,
+                    "countryCode": "ES",
+                    "countryName": "Spain"
+                },
+                {
+                    "weight": 0.044559,
+                    "countryCode": "AR",
+                    "countryName": "Argentina"
+                },
+                {
+                    "weight": 0.039633,
+                    "countryCode": "DO",
+                    "countryName": "Dominican Republic"
+                },
+                {
+                    "weight": 0.029557,
+                    "countryCode": "PE",
+                    "countryName": "Peru"
+                },
+                {
+                    "weight": 0.022391,
+                    "countryCode": "EC",
+                    "countryName": "Ecuador"
+                },
+                {
+                    "weight": 0.013211,
+                    "countryCode": "PA",
+                    "countryName": "Panama"
+                }
+            ],
+            "languages": [
+                {
+                    "code": "es",
+                    "weight": 0.853754
+                },
+                {
+                    "code": "en",
+                    "weight": 0.110659
+                },
+                {
+                    "code": "fr",
+                    "weight": 0.00903
+                },
+                {
+                    "code": "pt",
+                    "weight": 0.007082
+                },
+                {
+                    "code": "it",
+                    "weight": 0.003718
+                },
+                {
+                    "code": "id",
+                    "weight": 0.001593
+                },
+                {
+                    "code": "ru",
+                    "weight": 0.001416
+                },
+                {
+                    "code": "de",
+                    "weight": 0.001416
+                },
+                {
+                    "code": "ar",
+                    "weight": 0.001416
+                },
+                {
+                    "code": "gl",
+                    "weight": 0.001062
+                },
+                {
+                    "code": "tr",
+                    "weight": 0.000885
+                },
+                {
+                    "code": "nl",
+                    "weight": 0.000708
+                },
+                {
+                    "code": "fa",
+                    "weight": 0.000708
+                },
+                {
+                    "code": "fi",
+                    "weight": 0.000708
+                },
+                {
+                    "code": "ja",
+                    "weight": 0.000708
+                },
+                {
+                    "code": "ca",
+                    "weight": 0.000708
+                },
+                {
+                    "code": "pl",
+                    "weight": 0.000531
+                },
+                {
+                    "code": "sv",
+                    "weight": 0.000531
+                },
+                {
+                    "code": "ko",
+                    "weight": 0.000531
+                },
+                {
+                    "code": "ie",
+                    "weight": 0.000354
+                },
+                {
+                    "code": "other",
+                    "weight": 0.002479
+                }
+            ],
+            "ethnicities": [
+                {
+                    "code": "African American",
+                    "weight": 0.008118
+                },
+                {
+                    "code": "Asian",
+                    "weight": 0.020295
+                },
+                {
+                    "code": "White / Caucasian",
+                    "weight": 0.19483
+                },
+                {
+                    "code": "Hispanic",
+                    "weight": 0.776758
+                }
+            ],
+            "gendersPerAge": [
+                {
+                    "code": "13-17",
+                    "maleWeight": 0.037124,
+                    "femaleWeight": 0.025688
+                },
+                {
+                    "code": "18-24",
+                    "maleWeight": 0.329474,
+                    "femaleWeight": 0.146645
+                },
+                {
+                    "code": "25-34",
+                    "maleWeight": 0.264358,
+                    "femaleWeight": 0.137048
+                },
+                {
+                    "code": "35-44",
+                    "maleWeight": 0.042213,
+                    "femaleWeight": 0.011432
+                },
+                {
+                    "code": "45-64",
+                    "maleWeight": 0.004042,
+                    "femaleWeight": 0.001976
+                },
+                {
+                    "code": "65-",
+                    "maleWeight": 0,
+                    "femaleWeight": 0
+                }
+            ]
+        },
+        "identifier": "mora",
+        "platformName": "Instagram"
+    }
+}
