@@ -1,7 +1,7 @@
 {
     "deezer": {
         "url": "https://deezer.com/artist/123475882",
-        "asOf": "2025-03-07T00:00:00+00:00",
+        "asOf": "2025-04-21T00:00:00+00:00",
         "fans": 6,
         "default": true,
         "identifier": "123475882",
@@ -19,8 +19,8 @@
             "pop"
         ],
         "subGenres": [
-            "indie pop",
-            "pop"
+            "pop",
+            "indie pop"
         ],
         "countryCode": "US",
         "platformName": "general",
@@ -31,194 +31,198 @@
         "ages": [
             {
                 "code": "13-17",
-                "weight": 0.040188
+                "weight": 0.03723
             },
             {
                 "code": "18-24",
-                "weight": 0.256421
+                "weight": 0.255428
             },
             {
                 "code": "25-34",
-                "weight": 0.387726
+                "weight": 0.387785
             },
             {
                 "code": "35-44",
-                "weight": 0.199037
+                "weight": 0.206441
             },
             {
                 "code": "45-64",
-                "weight": 0.115982
+                "weight": 0.112012
             },
             {
                 "code": "65-",
-                "weight": 0.000646
+                "weight": 0.001104
             }
         ],
-        "asOf": "2025-03-11T00:00:00+00:00",
+        "asOf": "2025-04-26T00:00:00+00:00",
         "stats": {
-            "postCount": 52,
+            "postCount": 51,
             "viewCount": 0,
-            "followerCount": 18917,
-            "engagementRate": 0.005075,
+            "followerCount": 18848,
+            "engagementRate": 0.005093,
             "engagementCount": 96,
-            "averageReelsPlays": 3715,
+            "averageReelsPlays": 3749,
             "averageLikesPerPost": 96,
             "averageViewsPerPost": 0,
-            "averageCommentsPerPost": 9
+            "averageCommentsPerPost": 10
         },
         "cities": [],
         "default": true,
         "genders": [
             {
-                "code": "FEMALE",
-                "weight": 0.312243
+                "code": "MALE",
+                "weight": 0.691616
             },
             {
-                "code": "MALE",
-                "weight": 0.687757
+                "code": "FEMALE",
+                "weight": 0.308384
             }
         ],
         "countries": [],
         "languages": [
             {
                 "code": "en",
-                "weight": 0.590924
+                "weight": 0.596061
             },
             {
                 "code": "ru",
-                "weight": 0.049984
+                "weight": 0.055861
             },
             {
                 "code": "es",
-                "weight": 0.049984
-            },
-            {
-                "code": "fr",
-                "weight": 0.038803
+                "weight": 0.051986
             },
             {
                 "code": "pl",
-                "weight": 0.038474
+                "weight": 0.03681
+            },
+            {
+                "code": "fr",
+                "weight": 0.035518
             },
             {
                 "code": "de",
-                "weight": 0.031897
-            },
-            {
-                "code": "pt",
-                "weight": 0.024992
+                "weight": 0.03455
             },
             {
                 "code": "it",
-                "weight": 0.024663
+                "weight": 0.027769
             },
             {
-                "code": "fa",
-                "weight": 0.02269
+                "code": "pt",
+                "weight": 0.023894
             },
             {
                 "code": "hu",
-                "weight": 0.015784
+                "weight": 0.017113
+            },
+            {
+                "code": "fa",
+                "weight": 0.017113
             },
             {
                 "code": "cs",
-                "weight": 0.014469
+                "weight": 0.012593
             },
             {
                 "code": "nl",
-                "weight": 0.012825
-            },
-            {
-                "code": "ro",
-                "weight": 0.008879
+                "weight": 0.010333
             },
             {
                 "code": "ar",
-                "weight": 0.00855
+                "weight": 0.009687
             },
             {
-                "code": "id",
-                "weight": 0.006906
-            },
-            {
-                "code": "ko",
-                "weight": 0.005261
-            },
-            {
-                "code": "da",
-                "weight": 0.004604
-            },
-            {
-                "code": "bn",
-                "weight": 0.004604
-            },
-            {
-                "code": "sk",
-                "weight": 0.004275
-            },
-            {
-                "code": "el",
-                "weight": 0.004275
+                "code": "ro",
+                "weight": 0.007749
             },
             {
                 "code": "sv",
-                "weight": 0.003946
+                "weight": 0.006135
             },
             {
-                "code": "tr",
-                "weight": 0.003617
+                "code": "id",
+                "weight": 0.005812
             },
             {
-                "code": "fi",
-                "weight": 0.00296
+                "code": "bn",
+                "weight": 0.005489
             },
             {
-                "code": "th",
-                "weight": 0.001973
+                "code": "ko",
+                "weight": 0.005166
             },
             {
-                "code": "ur",
-                "weight": 0.001973
+                "code": "sk",
+                "weight": 0.004521
             },
             {
-                "code": "bg",
-                "weight": 0.001973
+                "code": "el",
+                "weight": 0.004521
+            },
+            {
+                "code": "da",
+                "weight": 0.003552
             },
             {
                 "code": "ja",
-                "weight": 0.001644
+                "weight": 0.002906
             },
             {
-                "code": "lv",
-                "weight": 0.001644
+                "code": "tr",
+                "weight": 0.002583
             },
             {
-                "code": "uk",
-                "weight": 0.001644
-            },
-            {
-                "code": "zh",
-                "weight": 0.001315
-            },
-            {
-                "code": "he",
-                "weight": 0.001315
+                "code": "fi",
+                "weight": 0.001937
             },
             {
                 "code": "et",
-                "weight": 0.001315
+                "weight": 0.001614
+            },
+            {
+                "code": "sr",
+                "weight": 0.001292
+            },
+            {
+                "code": "th",
+                "weight": 0.001292
+            },
+            {
+                "code": "uk",
+                "weight": 0.001292
+            },
+            {
+                "code": "ur",
+                "weight": 0.001292
+            },
+            {
+                "code": "hr",
+                "weight": 0.001292
+            },
+            {
+                "code": "lt",
+                "weight": 0.001292
+            },
+            {
+                "code": "bg",
+                "weight": 0.001292
+            },
+            {
+                "code": "ky",
+                "weight": 0.001292
             },
             {
                 "code": "other",
-                "weight": 0.011838
+                "weight": 0.008395
             }
         ],
         "identifier": "6G15LUcaCKIJmY7o3IOjTZ",
         "platformName": "Spotify",
         "featuredTrack": null,
-        "followerCount": 853,
-        "playlistReach": 0.000016755961980722265,
-        "monthlyListeners": 11550
+        "followerCount": 875,
+        "playlistReach": 0.000016924798629436714,
+        "monthlyListeners": 11860
     },
     "youtube": {
         "url": "https://www.youtube.com/channel/UCswPoJF_NZN6J4UlkDi9LzQ",
@@ -228,9 +232,9 @@
     },
     "facebook": {
         "url": "https://facebook.com/brianamoirmusic",
-        "asOf": "2025-03-07T00:00:00+00:00",
+        "asOf": "2025-04-25T00:00:00+00:00",
         "default": true,
-        "followers": 4916,
+        "followers": 4878,
         "identifier": "brianamoirmusic",
         "platformName": "Facebook"
     },
@@ -246,391 +250,378 @@
             "gendersPerAge": []
         },
         "stats": {
-            "postCount": 52,
+            "postCount": 51,
             "viewCount": 0,
-            "followerCount": 18917,
-            "engagementRate": 0.005075,
+            "followerCount": 18848,
+            "engagementRate": 0.005093,
             "engagementCount": 96,
-            "averageReelsPlays": 3715,
+            "averageReelsPlays": 3749,
             "averageLikesPerPost": 96,
             "averageViewsPerPost": 0,
-            "averageCommentsPerPost": 9
+            "averageCommentsPerPost": 10
         },
         "default": true,
         "follows": {
             "ages": [
                 {
                     "code": "13-17",
-                    "weight": 0.040188
+                    "weight": 0.03723
                 },
                 {
                     "code": "18-24",
-                    "weight": 0.256421
+                    "weight": 0.255428
                 },
                 {
                     "code": "25-34",
-                    "weight": 0.387726
+                    "weight": 0.387785
                 },
                 {
                     "code": "35-44",
-                    "weight": 0.199037
+                    "weight": 0.206441
                 },
                 {
                     "code": "45-64",
-                    "weight": 0.115982
+                    "weight": 0.112012
                 },
                 {
                     "code": "65-",
-                    "weight": 0.000646
+                    "weight": 0.001104
                 }
             ],
             "cities": [
                 {
-                    "region": "Georgia",
-                    "weight": 0.022067,
-                    "cityName": "Atlanta",
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                {
                     "region": "California",
-                    "weight": 0.02099,
+                    "weight": 0.020541,
                     "cityName": "Los Angeles",
                     "countryCode": "US",
                     "countryName": "United States"
                 },
                 {
-                    "region": "",
-                    "weight": 0.014532,
-                    "cityName": "Greater London",
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                {
                     "region": "Pennsylvania",
-                    "weight": 0.013455,
+                    "weight": 0.02,
                     "cityName": "Philadelphia",
                     "countryCode": "US",
                     "countryName": "United States"
                 },
                 {
+                    "region": "Georgia",
+                    "weight": 0.019459,
+                    "cityName": "Atlanta",
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                {
                     "region": "New York",
-                    "weight": 0.011841,
+                    "weight": 0.015135,
                     "cityName": "New York City",
                     "countryCode": "US",
                     "countryName": "United States"
                 },
                 {
+                    "region": "",
+                    "weight": 0.014595,
+                    "cityName": "Greater London",
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                {
                     "region": "Tennessee",
-                    "weight": 0.007535,
+                    "weight": 0.007568,
                     "cityName": "Nashville",
                     "countryCode": "US",
                     "countryName": "United States"
                 },
                 {
                     "region": "Illinois",
-                    "weight": 0.00592,
+                    "weight": 0.004865,
                     "cityName": "Chicago",
                     "countryCode": "US",
                     "countryName": "United States"
-                },
-                {
-                    "region": "",
-                    "weight": 0.005382,
-                    "cityName": "Bucharest",
-                    "countryCode": "RO",
-                    "countryName": "Romania"
                 }
             ],
             "genders": [
                 {
-                    "code": "FEMALE",
-                    "weight": 0.312243
+                    "code": "MALE",
+                    "weight": 0.691616
                 },
                 {
-                    "code": "MALE",
-                    "weight": 0.687757
+                    "code": "FEMALE",
+                    "weight": 0.308384
                 }
             ],
             "countries": [
                 {
-                    "weight": 0.400969,
+                    "weight": 0.405946,
                     "countryCode": "US",
                     "countryName": "United States"
                 },
                 {
-                    "weight": 0.05113,
+                    "weight": 0.058919,
                     "countryCode": "GB",
                     "countryName": "United Kingdom"
                 },
                 {
-                    "weight": 0.03929,
+                    "weight": 0.038378,
                     "countryCode": "PL",
                     "countryName": "Poland"
                 },
                 {
-                    "weight": 0.033369,
+                    "weight": 0.03027,
                     "countryCode": "IT",
                     "countryName": "Italy"
                 },
                 {
-                    "weight": 0.029064,
-                    "countryCode": "DE",
-                    "countryName": "Germany"
-                },
-                {
-                    "weight": 0.025834,
-                    "countryCode": "FR",
-                    "countryName": "France"
-                },
-                {
-                    "weight": 0.023681,
-                    "countryCode": "RO",
-                    "countryName": "Romania"
-                },
-                {
-                    "weight": 0.022605,
-                    "countryCode": "BR",
-                    "countryName": "Brazil"
-                },
-                {
-                    "weight": 0.022605,
+                    "weight": 0.026486,
                     "countryCode": "CA",
                     "countryName": "Canada"
                 },
                 {
-                    "weight": 0.019914,
-                    "countryCode": "RU",
-                    "countryName": "Russia"
+                    "weight": 0.025405,
+                    "countryCode": "DE",
+                    "countryName": "Germany"
                 },
                 {
-                    "weight": 0.019376,
+                    "weight": 0.023243,
+                    "countryCode": "BR",
+                    "countryName": "Brazil"
+                },
+                {
+                    "weight": 0.022703,
                     "countryCode": "ES",
                     "countryName": "Spain"
                 },
                 {
-                    "weight": 0.018299,
-                    "countryCode": "HU",
-                    "countryName": "Hungary"
+                    "weight": 0.022162,
+                    "countryCode": "FR",
+                    "countryName": "France"
                 },
                 {
-                    "weight": 0.017223,
+                    "weight": 0.021622,
                     "countryCode": "AU",
                     "countryName": "Australia"
                 },
                 {
-                    "weight": 0.017223,
+                    "weight": 0.02,
+                    "countryCode": "RO",
+                    "countryName": "Romania"
+                },
+                {
+                    "weight": 0.018919,
+                    "countryCode": "HU",
+                    "countryName": "Hungary"
+                },
+                {
+                    "weight": 0.017838,
+                    "countryCode": "RU",
+                    "countryName": "Russia"
+                },
+                {
+                    "weight": 0.015676,
                     "countryCode": "BD",
                     "countryName": "Bangladesh"
                 },
                 {
-                    "weight": 0.01507,
+                    "weight": 0.013514,
                     "countryCode": "CZ",
                     "countryName": "Czechia"
                 },
                 {
-                    "weight": 0.013455,
+                    "weight": 0.012432,
                     "countryCode": "IN",
                     "countryName": "India"
                 },
                 {
-                    "weight": 0.011841,
-                    "countryCode": "MX",
-                    "countryName": "Mexico"
-                },
-                {
-                    "weight": 0.010764,
-                    "countryCode": "ZA",
-                    "countryName": "South Africa"
-                },
-                {
-                    "weight": 0.010226,
-                    "countryCode": "NL",
-                    "countryName": "Netherlands"
+                    "weight": 0.01027,
+                    "countryCode": "BE",
+                    "countryName": "Belgium"
                 }
             ],
             "languages": [
                 {
                     "code": "en",
-                    "weight": 0.590924
+                    "weight": 0.596061
                 },
                 {
                     "code": "ru",
-                    "weight": 0.049984
+                    "weight": 0.055861
                 },
                 {
                     "code": "es",
-                    "weight": 0.049984
-                },
-                {
-                    "code": "fr",
-                    "weight": 0.038803
+                    "weight": 0.051986
                 },
                 {
                     "code": "pl",
-                    "weight": 0.038474
+                    "weight": 0.03681
+                },
+                {
+                    "code": "fr",
+                    "weight": 0.035518
                 },
                 {
                     "code": "de",
-                    "weight": 0.031897
-                },
-                {
-                    "code": "pt",
-                    "weight": 0.024992
+                    "weight": 0.03455
                 },
                 {
                     "code": "it",
-                    "weight": 0.024663
+                    "weight": 0.027769
                 },
                 {
-                    "code": "fa",
-                    "weight": 0.02269
+                    "code": "pt",
+                    "weight": 0.023894
                 },
                 {
                     "code": "hu",
-                    "weight": 0.015784
+                    "weight": 0.017113
+                },
+                {
+                    "code": "fa",
+                    "weight": 0.017113
                 },
                 {
                     "code": "cs",
-                    "weight": 0.014469
+                    "weight": 0.012593
                 },
                 {
                     "code": "nl",
-                    "weight": 0.012825
-                },
-                {
-                    "code": "ro",
-                    "weight": 0.008879
+                    "weight": 0.010333
                 },
                 {
                     "code": "ar",
-                    "weight": 0.00855
+                    "weight": 0.009687
                 },
                 {
-                    "code": "id",
-                    "weight": 0.006906
-                },
-                {
-                    "code": "ko",
-                    "weight": 0.005261
-                },
-                {
-                    "code": "da",
-                    "weight": 0.004604
-                },
-                {
-                    "code": "bn",
-                    "weight": 0.004604
-                },
-                {
-                    "code": "sk",
-                    "weight": 0.004275
-                },
-                {
-                    "code": "el",
-                    "weight": 0.004275
+                    "code": "ro",
+                    "weight": 0.007749
                 },
                 {
                     "code": "sv",
-                    "weight": 0.003946
+                    "weight": 0.006135
                 },
                 {
-                    "code": "tr",
-                    "weight": 0.003617
+                    "code": "id",
+                    "weight": 0.005812
                 },
                 {
-                    "code": "fi",
-                    "weight": 0.00296
+                    "code": "bn",
+                    "weight": 0.005489
                 },
                 {
-                    "code": "th",
-                    "weight": 0.001973
+                    "code": "ko",
+                    "weight": 0.005166
                 },
                 {
-                    "code": "ur",
-                    "weight": 0.001973
+                    "code": "sk",
+                    "weight": 0.004521
                 },
                 {
-                    "code": "bg",
-                    "weight": 0.001973
+                    "code": "el",
+                    "weight": 0.004521
+                },
+                {
+                    "code": "da",
+                    "weight": 0.003552
                 },
                 {
                     "code": "ja",
-                    "weight": 0.001644
+                    "weight": 0.002906
                 },
                 {
-                    "code": "lv",
-                    "weight": 0.001644
+                    "code": "tr",
+                    "weight": 0.002583
                 },
                 {
-                    "code": "uk",
-                    "weight": 0.001644
-                },
-                {
-                    "code": "zh",
-                    "weight": 0.001315
-                },
-                {
-                    "code": "he",
-                    "weight": 0.001315
+                    "code": "fi",
+                    "weight": 0.001937
                 },
                 {
                     "code": "et",
-                    "weight": 0.001315
+                    "weight": 0.001614
+                },
+                {
+                    "code": "sr",
+                    "weight": 0.001292
+                },
+                {
+                    "code": "th",
+                    "weight": 0.001292
+                },
+                {
+                    "code": "uk",
+                    "weight": 0.001292
+                },
+                {
+                    "code": "ur",
+                    "weight": 0.001292
+                },
+                {
+                    "code": "hr",
+                    "weight": 0.001292
+                },
+                {
+                    "code": "lt",
+                    "weight": 0.001292
+                },
+                {
+                    "code": "bg",
+                    "weight": 0.001292
+                },
+                {
+                    "code": "ky",
+                    "weight": 0.001292
                 },
                 {
                     "code": "other",
-                    "weight": 0.011838
+                    "weight": 0.008395
                 }
             ],
             "ethnicities": [
                 {
-                    "code": "African American",
-                    "weight": 0.048383
-                },
-                {
-                    "code": "White / Caucasian",
-                    "weight": 0.786216
+                    "code": "Asian",
+                    "weight": 0.128604
                 },
                 {
                     "code": "Hispanic",
-                    "weight": 0.080732
+                    "weight": 0.074054
                 },
                 {
-                    "code": "Asian",
-                    "weight": 0.084669
+                    "code": "White / Caucasian",
+                    "weight": 0.733041
+                },
+                {
+                    "code": "African American",
+                    "weight": 0.064302
                 }
             ],
             "gendersPerAge": [
                 {
                     "code": "13-17",
-                    "maleWeight": 0.026489,
-                    "femaleWeight": 0.013699
+                    "maleWeight": 0.021246,
+                    "femaleWeight": 0.015983
                 },
                 {
                     "code": "18-24",
-                    "maleWeight": 0.159583,
-                    "femaleWeight": 0.096838
+                    "maleWeight": 0.161409,
+                    "femaleWeight": 0.094019
                 },
                 {
                     "code": "25-34",
-                    "maleWeight": 0.240344,
-                    "femaleWeight": 0.147382
+                    "maleWeight": 0.250517,
+                    "femaleWeight": 0.137268
                 },
                 {
                     "code": "35-44",
-                    "maleWeight": 0.163136,
-                    "femaleWeight": 0.035901
+                    "maleWeight": 0.166483,
+                    "femaleWeight": 0.039958
                 },
                 {
                     "code": "45-64",
-                    "maleWeight": 0.097559,
-                    "femaleWeight": 0.018423
+                    "maleWeight": 0.091328,
+                    "femaleWeight": 0.020684
                 },
                 {
                     "code": "65-",
-                    "maleWeight": 0.000646,
-                    "femaleWeight": 0
+                    "maleWeight": 0.000634,
+                    "femaleWeight": 0.00047
                 }
             ]
         },
